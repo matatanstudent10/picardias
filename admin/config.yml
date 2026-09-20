@@ -2,7 +2,7 @@
 # EDITA las 3 líneas marcadas con <-- antes de usar.
 backend:
   name: github
-  repo: USUARIO/REPO                          # <-- tu usuario/repositorio de GitHub
+  repo: matatanstudent10/picardias            # tu usuario/repositorio de GitHub
   branch: main
   base_url: https://TU-WORKER.tu-subdominio.workers.dev   # <-- broker OAuth (ver README)
   auth_endpoint: auth
