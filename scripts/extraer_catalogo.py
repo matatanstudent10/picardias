@@ -148,7 +148,7 @@ def parse_lineal(doc):
                 if frag and not frag.isdigit() and len(name) < 55:
                     name = (name + " " + frag).strip()
                 j += 1; look += 1
-            if 1 <= cod <= 250:
+            if 1 <= cod <= 450:
                 name = fix_txt(name).strip(" -–")
                 p = int(price.replace(".", "").replace(",", "")) if price else None
                 if cod not in prods and len(name) >= 3:
@@ -180,7 +180,7 @@ def codes_pagina(page):
         m = CODE.match(ln.strip())
         if m:
             c = int(m.group(1))
-            if 1 <= c <= 250: codes.append(c)
+            if 1 <= c <= 450: codes.append(c)
     return sorted(set(codes))
 
 def save_webp(doc, xref, dest, box=900, q=80):
