@@ -75,13 +75,18 @@ Entra a `https://tu-dominio/admin/`, inicia sesión con GitHub y listo.
 Editas en `/admin` → se guarda un commit en el repo → el **GitHub Action** recompila
 `public/products.json` → el sitio se actualiza solo en ~1 min.
 
-## 7. Dominio propio (barato)
-1. Compra el dominio (Namecheap, Porkbun, GoDaddy…).
-2. En el DNS del dominio:
-   - `CNAME`  `www`  →  `USUARIO.github.io`
-   - (raíz) registros `A` a las IPs de GitHub Pages, o `ALIAS/ANAME` a `USUARIO.github.io`.
-3. En GitHub → Settings → Pages → **Custom domain**: escribe tu dominio (crea el archivo `CNAME`).
-4. Marca **Enforce HTTPS**.
+## 7. Dominio propio (barato) — con Cloudflare
+Cloudflare Registrar vende al costo (~$9-10 el `.com`) y da DNS + CDN gratis.
+
+1. Cuenta gratis en dash.cloudflare.com → **Domain Registration → Register Domains** y compra el nombre.
+   (Si la extensión no está en Cloudflare —p. ej. `.co`—, cómprala en Porkbun y luego **Add a site** en Cloudflare cambiando los nameservers.)
+2. Cloudflare → dominio → **DNS → Records**:
+   - `CNAME`  `www`  →  `matatanstudent10.github.io`  (Proxy: **DNS only / nube gris**)
+   - `CNAME`  `@`    →  `matatanstudent10.github.io`  (Proxy: **DNS only**; Cloudflare aplica CNAME flattening en la raíz)
+3. GitHub → Settings → Pages → **Custom domain**: tu dominio → Save (crea el archivo `CNAME`). Luego **Enforce HTTPS**.
+4. (Opcional, después) activar la **nube naranja (proxy)** para CDN → requiere **SSL/TLS = "Full"** o hay bucle de redirección.
+
+> Empezar SIEMPRE en **DNS only (nube gris)** para que GitHub emita su certificado sin conflictos.
 
 ## Notas
 - Solo para mayores de 18 años (retail de productos para adultos). Presentación sobria + age gate.

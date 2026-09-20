@@ -71,12 +71,16 @@
     const grid = $("#grid"), list = visibles();
     $("#empty").hidden = list.length > 0;
     $("#resultInfo").textContent = `${list.length} producto${list.length === 1 ? "" : "s"}`;
+    const notice = $("#notice"), hayBP = list.some(p => p.bajo_pedido);
+    if (hayBP) { notice.hidden = false; notice.innerHTML = "🕒 <strong>Bajo pedido:</strong> los artículos marcados no son de entrega al día siguiente. Se encargan y se coordina la entrega por WhatsApp."; }
+    else notice.hidden = true;
     grid.innerHTML = list.map(p => {
       const img = p.imagenes && p.imagenes[0]
         ? `<img loading="lazy" src="${p.imagenes[0]}" alt="${esc(p.nombre)}" />`
         : `<div class="card-noimg">P</div>`;
+      const bp = p.bajo_pedido ? `<span class="badge-bp">Bajo pedido</span>` : "";
       return `<article class="card" data-code="${p.codigo}">
-        <div class="card-img js-open">${img}</div>
+        <div class="card-img js-open">${img}${bp}</div>
         <div class="card-body">
           <span class="code">Cód. ${p.codigo}</span>
           <span class="card-name js-open">${esc(p.nombre)}</span>
@@ -101,6 +105,7 @@
     $("#mCode").textContent = "Cód. " + p.codigo;
     $("#mName").textContent = p.nombre;
     $("#mPrice").textContent = p.precio ? fmt(p.precio) : "Consultar";
+    $("#mBP").hidden = !p.bajo_pedido;
     $("#mDesc").textContent = p.descripcion || "";
     $("#mQty").textContent = "1";
     show("#modal");
@@ -154,11 +159,14 @@
     const codes = Object.keys(cart);
     if (!codes.length) { alert("Tu pedido está vacío."); return; }
     let msg = "¡Hola Picardías! Quiero pedir:\n\n";
+    let hayBP = false;
     codes.forEach(c => {
       const p = PRODUCTOS.find(x => x.codigo === c); if (!p) return;
-      msg += `• ${cart[c]} x [${c}] ${p.nombre}${p.precio ? " — " + fmt(p.precio * cart[c]) : ""}\n`;
+      if (p.bajo_pedido) hayBP = true;
+      msg += `• ${cart[c]} x [${c}] ${p.nombre}${p.bajo_pedido ? " (bajo pedido)" : ""}${p.precio ? " — " + fmt(p.precio * cart[c]) : ""}\n`;
     });
     msg += `\nTotal: ${fmt(totalPrecio())}`;
+    if (hayBP) msg += `\n\nNota: incluye artículos BAJO PEDIDO (no entrega al día siguiente).`;
     window.open(waUrl(msg), "_blank");
   }
 

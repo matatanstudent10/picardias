@@ -57,6 +57,10 @@
       "nombre": "Arnés - Sado"
     },
     {
+      "slug": "lenceria",
+      "nombre": "Lencería"
+    },
+    {
       "slug": "masturbadores",
       "nombre": "Masturbadores"
     },
@@ -75,7 +79,8 @@
         "public/img/01/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "02",
@@ -86,7 +91,8 @@
         "public/img/02/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "03",
@@ -97,7 +103,21 @@
         "public/img/03/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "medias-003",
+      "nombre": "Medias 003",
+      "precio": 30000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/medias-003/1.webp",
+        "public/img/medias-003/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "04",
@@ -108,7 +128,8 @@
         "public/img/04/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "05",
@@ -119,7 +140,8 @@
         "public/img/05/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "06",
@@ -130,7 +152,8 @@
         "public/img/06/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "07",
@@ -141,7 +164,8 @@
         "public/img/07/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "08",
@@ -152,7 +176,8 @@
         "public/img/08/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "09",
@@ -163,7 +188,8 @@
         "public/img/09/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "10",
@@ -174,7 +200,8 @@
         "public/img/10/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "11",
@@ -185,7 +212,8 @@
         "public/img/11/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "12",
@@ -196,7 +224,8 @@
         "public/img/12/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "13",
@@ -207,7 +236,8 @@
         "public/img/13/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "14",
@@ -218,7 +248,8 @@
         "public/img/14/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "15",
@@ -229,7 +260,8 @@
         "public/img/15/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "16",
@@ -240,7 +272,8 @@
         "public/img/16/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "17",
@@ -251,7 +284,8 @@
         "public/img/17/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "18",
@@ -262,7 +296,8 @@
         "public/img/18/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "19",
@@ -273,7 +308,8 @@
         "public/img/19/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "20",
@@ -284,7 +320,8 @@
         "public/img/20/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "21",
@@ -295,7 +332,8 @@
         "public/img/21/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "22",
@@ -306,7 +344,8 @@
         "public/img/22/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "23",
@@ -317,7 +356,8 @@
         "public/img/23/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "24",
@@ -328,7 +368,8 @@
         "public/img/24/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "25",
@@ -339,7 +380,8 @@
         "public/img/25/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "26",
@@ -350,7 +392,8 @@
         "public/img/26/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "27",
@@ -361,7 +404,8 @@
         "public/img/27/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "28",
@@ -372,7 +416,8 @@
         "public/img/28/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "29",
@@ -383,7 +428,8 @@
         "public/img/29/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "30",
@@ -394,7 +440,8 @@
         "public/img/30/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "31",
@@ -405,7 +452,8 @@
         "public/img/31/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "32",
@@ -416,7 +464,8 @@
         "public/img/32/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "33",
@@ -427,7 +476,8 @@
         "public/img/33/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "34",
@@ -438,7 +488,8 @@
         "public/img/34/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "35",
@@ -449,7 +500,8 @@
         "public/img/35/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "36",
@@ -460,7 +512,8 @@
         "public/img/36/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "37",
@@ -471,7 +524,8 @@
         "public/img/37/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "38",
@@ -482,7 +536,8 @@
         "public/img/38/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "39",
@@ -493,7 +548,8 @@
         "public/img/39/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "40",
@@ -504,7 +560,8 @@
         "public/img/40/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "41",
@@ -515,7 +572,8 @@
         "public/img/41/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "42",
@@ -526,7 +584,8 @@
         "public/img/42/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "43",
@@ -537,7 +596,8 @@
         "public/img/43/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "44",
@@ -548,7 +608,8 @@
         "public/img/44/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "45",
@@ -559,7 +620,8 @@
         "public/img/45/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "46",
@@ -570,7 +632,8 @@
         "public/img/46/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "47",
@@ -581,7 +644,8 @@
         "public/img/47/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "48",
@@ -592,7 +656,8 @@
         "public/img/48/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "49",
@@ -603,7 +668,8 @@
         "public/img/49/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "50",
@@ -614,7 +680,8 @@
         "public/img/50/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "51",
@@ -623,7 +690,8 @@
       "categoria": "frio-caliente",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "52",
@@ -634,7 +702,8 @@
         "public/img/52/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "53",
@@ -645,7 +714,8 @@
         "public/img/53/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "54",
@@ -656,7 +726,8 @@
         "public/img/54/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "55",
@@ -667,7 +738,8 @@
         "public/img/55/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "56",
@@ -678,7 +750,8 @@
         "public/img/56/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "57",
@@ -689,7 +762,8 @@
         "public/img/57/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "58",
@@ -700,7 +774,8 @@
         "public/img/58/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "59",
@@ -711,7 +786,20 @@
         "public/img/59/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "liguero-059",
+      "nombre": "Liguero 059",
+      "precio": 30000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/liguero-059/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "60",
@@ -722,7 +810,8 @@
         "public/img/60/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "61",
@@ -733,7 +822,8 @@
         "public/img/61/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "62",
@@ -744,7 +834,8 @@
         "public/img/62/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "63",
@@ -755,7 +846,8 @@
         "public/img/63/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "64",
@@ -766,7 +858,8 @@
         "public/img/64/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "65",
@@ -777,7 +870,8 @@
         "public/img/65/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "66",
@@ -788,7 +882,8 @@
         "public/img/66/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "67",
@@ -799,7 +894,22 @@
         "public/img/67/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "bralette-067",
+      "nombre": "Bralette 067",
+      "precio": 28000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/bralette-067/1.webp",
+        "public/img/bralette-067/2.webp",
+        "public/img/bralette-067/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "68",
@@ -810,7 +920,8 @@
         "public/img/68/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "69",
@@ -821,7 +932,8 @@
         "public/img/69/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "70",
@@ -830,7 +942,8 @@
       "categoria": "frio-caliente",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "71",
@@ -839,7 +952,8 @@
       "categoria": "frio-caliente",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "72",
@@ -850,7 +964,8 @@
         "public/img/72/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "73",
@@ -861,7 +976,8 @@
         "public/img/73/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "74",
@@ -872,7 +988,8 @@
         "public/img/74/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "75",
@@ -883,7 +1000,20 @@
         "public/img/75/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "liguero-075",
+      "nombre": "Liguero 075",
+      "precio": 30000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/liguero-075/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "76",
@@ -894,7 +1024,8 @@
         "public/img/76/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "77",
@@ -905,7 +1036,20 @@
         "public/img/77/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "liguero-077",
+      "nombre": "Liguero 077",
+      "precio": 30000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/liguero-077/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "78",
@@ -916,7 +1060,8 @@
         "public/img/78/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "79",
@@ -927,7 +1072,8 @@
         "public/img/79/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "80",
@@ -938,7 +1084,8 @@
         "public/img/80/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "81",
@@ -949,7 +1096,8 @@
         "public/img/81/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "82",
@@ -960,7 +1108,8 @@
         "public/img/82/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "83",
@@ -971,7 +1120,8 @@
         "public/img/83/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "84",
@@ -982,7 +1132,8 @@
         "public/img/84/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "85",
@@ -993,7 +1144,20 @@
         "public/img/85/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "corset-85",
+      "nombre": "Corset 85",
+      "precio": 119000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-85/1.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "86",
@@ -1004,7 +1168,8 @@
         "public/img/86/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "87",
@@ -1015,7 +1180,8 @@
         "public/img/87/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "88",
@@ -1026,7 +1192,24 @@
         "public/img/88/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "medias-088",
+      "nombre": "Medias 088",
+      "precio": 30000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/medias-088/1.webp",
+        "public/img/medias-088/2.webp",
+        "public/img/medias-088/3.webp",
+        "public/img/medias-088/4.webp",
+        "public/img/medias-088/5.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "89",
@@ -1037,7 +1220,8 @@
         "public/img/89/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "90",
@@ -1048,7 +1232,8 @@
         "public/img/90/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "91",
@@ -1059,7 +1244,8 @@
         "public/img/91/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "92",
@@ -1070,7 +1256,8 @@
         "public/img/92/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "93",
@@ -1081,7 +1268,8 @@
         "public/img/93/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "94",
@@ -1092,7 +1280,8 @@
         "public/img/94/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "95",
@@ -1101,7 +1290,8 @@
       "categoria": "anales-retardantes",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "96",
@@ -1110,7 +1300,8 @@
       "categoria": "anales-retardantes",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "97",
@@ -1121,7 +1312,8 @@
         "public/img/97/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "98",
@@ -1132,7 +1324,8 @@
         "public/img/98/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "99",
@@ -1143,7 +1336,8 @@
         "public/img/99/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "100",
@@ -1154,7 +1348,8 @@
         "public/img/100/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "101",
@@ -1165,7 +1360,8 @@
         "public/img/101/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "102",
@@ -1176,7 +1372,8 @@
         "public/img/102/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "103",
@@ -1187,7 +1384,8 @@
         "public/img/103/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "104",
@@ -1198,7 +1396,8 @@
         "public/img/104/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "105",
@@ -1207,7 +1406,8 @@
       "categoria": "anales-retardantes",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "106",
@@ -1218,7 +1418,8 @@
         "public/img/106/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "107",
@@ -1229,7 +1430,8 @@
         "public/img/107/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "108",
@@ -1240,7 +1442,8 @@
         "public/img/108/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "109",
@@ -1251,7 +1454,8 @@
         "public/img/109/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "110",
@@ -1262,7 +1466,8 @@
         "public/img/110/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "111",
@@ -1273,7 +1478,8 @@
         "public/img/111/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "112",
@@ -1284,7 +1490,8 @@
         "public/img/112/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "113",
@@ -1295,7 +1502,8 @@
         "public/img/113/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "114",
@@ -1306,7 +1514,8 @@
         "public/img/114/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "115",
@@ -1317,7 +1526,8 @@
         "public/img/115/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "116",
@@ -1328,7 +1538,8 @@
         "public/img/116/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "117",
@@ -1339,7 +1550,8 @@
         "public/img/117/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "118",
@@ -1350,7 +1562,8 @@
         "public/img/118/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "119",
@@ -1359,7 +1572,21 @@
       "categoria": "potenciadores",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-119",
+      "nombre": "Panty 119",
+      "precio": 16000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-119/1.webp",
+        "public/img/panty-119/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "120",
@@ -1368,7 +1595,8 @@
       "categoria": "potenciadores",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "121",
@@ -1377,7 +1605,20 @@
       "categoria": "potenciadores",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-121",
+      "nombre": "Panty 121",
+      "precio": 16000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-121/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "122",
@@ -1386,7 +1627,20 @@
       "categoria": "potenciadores",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-122",
+      "nombre": "Panty 122",
+      "precio": 12000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-122/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "123",
@@ -1395,7 +1649,8 @@
       "categoria": "potenciadores",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "124",
@@ -1404,7 +1659,8 @@
       "categoria": "para-masajes",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "125",
@@ -1413,7 +1669,8 @@
       "categoria": "para-masajes",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "126",
@@ -1422,7 +1679,8 @@
       "categoria": "kits",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "127",
@@ -1431,7 +1689,8 @@
       "categoria": "kits",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "128",
@@ -1442,7 +1701,20 @@
         "public/img/128/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-128",
+      "nombre": "Panty 128",
+      "precio": 14700,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-128/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "129",
@@ -1453,7 +1725,8 @@
         "public/img/129/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "130",
@@ -1464,7 +1737,8 @@
         "public/img/130/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "131",
@@ -1475,7 +1749,8 @@
         "public/img/131/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "132",
@@ -1486,7 +1761,21 @@
         "public/img/132/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-132",
+      "nombre": "Panty 132",
+      "precio": 18000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-132/1.webp",
+        "public/img/panty-132/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "133",
@@ -1497,7 +1786,21 @@
         "public/img/133/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-133",
+      "nombre": "Panty 133",
+      "precio": 18000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-133/1.webp",
+        "public/img/panty-133/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "134",
@@ -1508,7 +1811,8 @@
         "public/img/134/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "135",
@@ -1519,7 +1823,8 @@
         "public/img/135/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "136",
@@ -1530,7 +1835,21 @@
         "public/img/136/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-136",
+      "nombre": "Panty 136",
+      "precio": 16200,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-136/1.webp",
+        "public/img/panty-136/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "137",
@@ -1541,7 +1860,8 @@
         "public/img/137/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "138",
@@ -1552,7 +1872,8 @@
         "public/img/138/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "139",
@@ -1563,7 +1884,8 @@
         "public/img/139/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "140",
@@ -1574,7 +1896,8 @@
         "public/img/140/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "141",
@@ -1585,7 +1908,8 @@
         "public/img/141/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "142",
@@ -1594,7 +1918,8 @@
       "categoria": "feromonas",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "143",
@@ -1603,7 +1928,8 @@
       "categoria": "feromonas",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "144",
@@ -1612,7 +1938,8 @@
       "categoria": "feromonas",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "145",
@@ -1621,7 +1948,8 @@
       "categoria": "feromonas",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "146",
@@ -1630,7 +1958,8 @@
       "categoria": "feromonas",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "147",
@@ -1641,7 +1970,8 @@
         "public/img/147/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "148",
@@ -1652,7 +1982,8 @@
         "public/img/148/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "149",
@@ -1663,7 +1994,8 @@
         "public/img/149/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "150",
@@ -1674,7 +2006,20 @@
         "public/img/150/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-150",
+      "nombre": "Panty 150",
+      "precio": 16200,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-150/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     },
     {
       "codigo": "151",
@@ -1685,7 +2030,8 @@
         "public/img/151/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "152",
@@ -1696,7 +2042,8 @@
         "public/img/152/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "153",
@@ -1707,7 +2054,8 @@
         "public/img/153/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "154",
@@ -1718,7 +2066,8 @@
         "public/img/154/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "155",
@@ -1729,7 +2078,8 @@
         "public/img/155/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "156",
@@ -1740,7 +2090,8 @@
         "public/img/156/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "157",
@@ -1751,7 +2102,8 @@
         "public/img/157/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "158",
@@ -1762,7 +2114,8 @@
         "public/img/158/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "159",
@@ -1773,7 +2126,8 @@
         "public/img/159/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "160",
@@ -1784,7 +2138,8 @@
         "public/img/160/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "161",
@@ -1795,7 +2150,8 @@
         "public/img/161/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "162",
@@ -1806,7 +2162,8 @@
         "public/img/162/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "163",
@@ -1817,7 +2174,8 @@
         "public/img/163/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "164",
@@ -1828,7 +2186,8 @@
         "public/img/164/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "165",
@@ -1839,7 +2198,8 @@
         "public/img/165/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "166",
@@ -1850,7 +2210,8 @@
         "public/img/166/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "167",
@@ -1861,7 +2222,8 @@
         "public/img/167/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "168",
@@ -1872,7 +2234,8 @@
         "public/img/168/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "169",
@@ -1883,7 +2246,8 @@
         "public/img/169/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "170",
@@ -1894,7 +2258,8 @@
         "public/img/170/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "171",
@@ -1905,7 +2270,8 @@
         "public/img/171/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "172",
@@ -1916,7 +2282,8 @@
         "public/img/172/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "173",
@@ -1927,7 +2294,8 @@
         "public/img/173/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "174",
@@ -1938,7 +2306,8 @@
         "public/img/174/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "175",
@@ -1949,7 +2318,8 @@
         "public/img/175/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "176",
@@ -1960,7 +2330,8 @@
         "public/img/176/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "178",
@@ -1971,7 +2342,8 @@
         "public/img/178/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "179",
@@ -1982,7 +2354,8 @@
         "public/img/179/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "180",
@@ -1993,7 +2366,8 @@
         "public/img/180/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "181",
@@ -2004,7 +2378,8 @@
         "public/img/181/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "182",
@@ -2015,7 +2390,8 @@
         "public/img/182/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "183",
@@ -2026,7 +2402,8 @@
         "public/img/183/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "184",
@@ -2037,7 +2414,8 @@
         "public/img/184/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "185",
@@ -2048,7 +2426,8 @@
         "public/img/185/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "186",
@@ -2059,7 +2438,8 @@
         "public/img/186/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "187",
@@ -2070,7 +2450,8 @@
         "public/img/187/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "188",
@@ -2081,7 +2462,8 @@
         "public/img/188/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "189",
@@ -2092,7 +2474,8 @@
         "public/img/189/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "190",
@@ -2103,7 +2486,8 @@
         "public/img/190/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "191",
@@ -2114,7 +2498,8 @@
         "public/img/191/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "192",
@@ -2125,7 +2510,8 @@
         "public/img/192/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "193",
@@ -2136,7 +2522,8 @@
         "public/img/193/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "194",
@@ -2147,7 +2534,8 @@
         "public/img/194/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "195",
@@ -2158,7 +2546,8 @@
         "public/img/195/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "196",
@@ -2169,7 +2558,8 @@
         "public/img/196/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "197",
@@ -2180,7 +2570,8 @@
         "public/img/197/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "198",
@@ -2191,7 +2582,8 @@
         "public/img/198/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "199",
@@ -2202,7 +2594,8 @@
         "public/img/199/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "200",
@@ -2213,7 +2606,8 @@
         "public/img/200/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "201",
@@ -2224,7 +2618,8 @@
         "public/img/201/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "202",
@@ -2235,7 +2630,8 @@
         "public/img/202/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "203",
@@ -2246,7 +2642,8 @@
         "public/img/203/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "204",
@@ -2257,7 +2654,8 @@
         "public/img/204/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "205",
@@ -2268,7 +2666,8 @@
         "public/img/205/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "206",
@@ -2279,7 +2678,8 @@
         "public/img/206/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "207",
@@ -2290,7 +2690,8 @@
         "public/img/207/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "208",
@@ -2301,7 +2702,8 @@
         "public/img/208/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "209",
@@ -2312,7 +2714,8 @@
         "public/img/209/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "210",
@@ -2323,7 +2726,8 @@
         "public/img/210/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "211",
@@ -2334,7 +2738,8 @@
         "public/img/211/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "212",
@@ -2345,7 +2750,8 @@
         "public/img/212/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "213",
@@ -2356,7 +2762,8 @@
         "public/img/213/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "214",
@@ -2367,7 +2774,8 @@
         "public/img/214/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "215",
@@ -2378,7 +2786,8 @@
         "public/img/215/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "216",
@@ -2389,7 +2798,8 @@
         "public/img/216/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "217",
@@ -2400,7 +2810,8 @@
         "public/img/217/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "218",
@@ -2411,7 +2822,8 @@
         "public/img/218/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "219",
@@ -2422,7 +2834,8 @@
         "public/img/219/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "220",
@@ -2433,7 +2846,8 @@
         "public/img/220/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "221",
@@ -2442,7 +2856,8 @@
       "categoria": "balas-huevos",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "222",
@@ -2451,7 +2866,8 @@
       "categoria": "balas-huevos",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "223",
@@ -2460,7 +2876,8 @@
       "categoria": "balas-huevos",
       "imagenes": [],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "224",
@@ -2471,7 +2888,8 @@
         "public/img/224/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "225",
@@ -2482,7 +2900,8 @@
         "public/img/225/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "226",
@@ -2493,7 +2912,8 @@
         "public/img/226/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "227",
@@ -2504,7 +2924,8 @@
         "public/img/227/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "228",
@@ -2515,7 +2936,8 @@
         "public/img/228/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "229",
@@ -2526,7 +2948,8 @@
         "public/img/229/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "230",
@@ -2537,7 +2960,8 @@
         "public/img/230/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "231",
@@ -2548,7 +2972,8 @@
         "public/img/231/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "232",
@@ -2559,7 +2984,8 @@
         "public/img/232/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "233",
@@ -2570,7 +2996,8 @@
         "public/img/233/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "234",
@@ -2581,7 +3008,8 @@
         "public/img/234/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "235",
@@ -2592,7 +3020,8 @@
         "public/img/235/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "236",
@@ -2603,7 +3032,8 @@
         "public/img/236/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "237",
@@ -2614,7 +3044,8 @@
         "public/img/237/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "238",
@@ -2625,7 +3056,8 @@
         "public/img/238/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "239",
@@ -2636,7 +3068,8 @@
         "public/img/239/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "240",
@@ -2647,7 +3080,8 @@
         "public/img/240/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "241",
@@ -2658,7 +3092,8 @@
         "public/img/241/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "242",
@@ -2669,7 +3104,8 @@
         "public/img/242/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "243",
@@ -2680,7 +3116,8 @@
         "public/img/243/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "244",
@@ -2691,7 +3128,8 @@
         "public/img/244/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "245",
@@ -2702,7 +3140,8 @@
         "public/img/245/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "246",
@@ -2713,7 +3152,8 @@
         "public/img/246/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "247",
@@ -2724,7 +3164,8 @@
         "public/img/247/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "248",
@@ -2735,7 +3176,8 @@
         "public/img/248/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "249",
@@ -2746,7 +3188,8 @@
         "public/img/249/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
     },
     {
       "codigo": "250",
@@ -2757,7 +3200,1409 @@
         "public/img/250/1.webp"
       ],
       "descripcion": "",
-      "activo": true
+      "activo": true,
+      "bajo_pedido": false
+    },
+    {
+      "codigo": "panty-313",
+      "nombre": "Panty 313",
+      "precio": 14500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-313/1.webp",
+        "public/img/panty-313/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-315",
+      "nombre": "Panty 315",
+      "precio": 16900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-315/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-331",
+      "nombre": "Panty 331",
+      "precio": 12000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-331/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-333",
+      "nombre": "Panty 333",
+      "precio": 16000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-333/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-344",
+      "nombre": "Panty 344",
+      "precio": 14700,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-344/1.webp",
+        "public/img/panty-344/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-378",
+      "nombre": "Panty 378",
+      "precio": 16000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-378/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-379",
+      "nombre": "Panty 379",
+      "precio": 14200,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-379/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-407",
+      "nombre": "Panty 407",
+      "precio": 27900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-407/1.webp",
+        "public/img/panty-407/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-417",
+      "nombre": "Panty 417",
+      "precio": 34000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-417/1.webp",
+        "public/img/panty-417/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-426",
+      "nombre": "Panty 426",
+      "precio": 34000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-426/1.webp",
+        "public/img/panty-426/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-427",
+      "nombre": "Panty 427",
+      "precio": 27900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-427/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-484",
+      "nombre": "Babydoll 484",
+      "precio": 95000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-484/1.webp",
+        "public/img/babydoll-484/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-babydoll-484",
+      "nombre": "Babydoll Babydoll 484",
+      "precio": 95000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-babydoll-484/1.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-808",
+      "nombre": "Babydoll 808",
+      "precio": 125000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-808/1.webp",
+        "public/img/babydoll-808/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-babydoll-808",
+      "nombre": "Babydoll Babydoll 808",
+      "precio": 125000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-babydoll-808/1.webp",
+        "public/img/babydoll-babydoll-808/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "kimono-810",
+      "nombre": "Kimono 810",
+      "precio": 85000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/kimono-810/1.webp",
+        "public/img/kimono-810/2.webp"
+      ],
+      "descripcion": "Tallas: 32- 34-36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "kimono-812",
+      "nombre": "Kimono 812",
+      "precio": 90000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/kimono-812/1.webp",
+        "public/img/kimono-812/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-813",
+      "nombre": "Babydoll 813",
+      "precio": 115000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-813/1.webp",
+        "public/img/babydoll-813/2.webp",
+        "public/img/babydoll-813/3.webp",
+        "public/img/babydoll-813/4.webp",
+        "public/img/babydoll-813/5.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-814",
+      "nombre": "Corset 814",
+      "precio": 121000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-814/1.webp",
+        "public/img/corset-814/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-820",
+      "nombre": "Babydoll 820",
+      "precio": 121500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-820/1.webp",
+        "public/img/babydoll-820/2.webp",
+        "public/img/babydoll-820/3.webp",
+        "public/img/babydoll-820/4.webp",
+        "public/img/babydoll-820/5.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-904",
+      "nombre": "Panty 904",
+      "precio": 14500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-904/1.webp",
+        "public/img/panty-904/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-907",
+      "nombre": "Panty 907",
+      "precio": 14200,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-907/1.webp",
+        "public/img/panty-907/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-1012",
+      "nombre": "Set 1012",
+      "precio": 110000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-1012/1.webp",
+        "public/img/set-1012/2.webp",
+        "public/img/set-1012/3.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-1015",
+      "nombre": "Set 1015",
+      "precio": 101500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-1015/1.webp",
+        "public/img/set-1015/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-1016",
+      "nombre": "Panty 1016",
+      "precio": 16900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-1016/1.webp",
+        "public/img/panty-1016/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-1352",
+      "nombre": "Panty 1352",
+      "precio": 14900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-1352/1.webp",
+        "public/img/panty-1352/2.webp",
+        "public/img/panty-1352/3.webp",
+        "public/img/panty-1352/4.webp",
+        "public/img/panty-1352/5.webp",
+        "public/img/panty-1352/6.webp",
+        "public/img/panty-1352/7.webp",
+        "public/img/panty-1352/8.webp",
+        "public/img/panty-1352/9.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "panty-1353",
+      "nombre": "Panty 1353",
+      "precio": 14900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/panty-1353/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-1994",
+      "nombre": "Conjunto 1994",
+      "precio": 105000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-1994/1.webp",
+        "public/img/conjunto-1994/2.webp",
+        "public/img/conjunto-1994/3.webp",
+        "public/img/conjunto-1994/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-1998",
+      "nombre": "Conjunto 1998",
+      "precio": 105000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-1998/1.webp",
+        "public/img/conjunto-1998/2.webp",
+        "public/img/conjunto-1998/3.webp",
+        "public/img/conjunto-1998/4.webp",
+        "public/img/conjunto-1998/5.webp",
+        "public/img/conjunto-1998/6.webp",
+        "public/img/conjunto-1998/7.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-1999",
+      "nombre": "Conjunto 1999",
+      "precio": 98000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-1999/1.webp",
+        "public/img/conjunto-1999/2.webp",
+        "public/img/conjunto-1999/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-2014",
+      "nombre": "Corset 2014",
+      "precio": 121000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-2014/1.webp",
+        "public/img/corset-2014/2.webp",
+        "public/img/corset-2014/3.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-2018",
+      "nombre": "Babydoll 2018",
+      "precio": 122300,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-2018/1.webp",
+        "public/img/babydoll-2018/2.webp",
+        "public/img/babydoll-2018/3.webp",
+        "public/img/babydoll-2018/4.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-2045",
+      "nombre": "Babydoll 2045",
+      "precio": 121500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-2045/1.webp",
+        "public/img/babydoll-2045/2.webp",
+        "public/img/babydoll-2045/3.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34- 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-2048",
+      "nombre": "Corset 2048",
+      "precio": 121000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-2048/1.webp",
+        "public/img/corset-2048/2.webp",
+        "public/img/corset-2048/3.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "body-2058",
+      "nombre": "Body 2058",
+      "precio": 45000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/body-2058/1.webp",
+        "public/img/body-2058/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-erotico-2071",
+      "nombre": "Set Erótico 2071",
+      "precio": 119000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-erotico-2071/1.webp",
+        "public/img/set-erotico-2071/2.webp",
+        "public/img/set-erotico-2071/3.webp",
+        "public/img/set-erotico-2071/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36- 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-2087",
+      "nombre": "Babydoll 2087",
+      "precio": 70000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-2087/1.webp",
+        "public/img/babydoll-2087/2.webp",
+        "public/img/babydoll-2087/3.webp",
+        "public/img/babydoll-2087/4.webp",
+        "public/img/babydoll-2087/5.webp",
+        "public/img/babydoll-2087/6.webp"
+      ],
+      "descripcion": "Tallas: 32 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-4108",
+      "nombre": "Conjunto 4108",
+      "precio": 65000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-4108/1.webp",
+        "public/img/conjunto-4108/2.webp",
+        "public/img/conjunto-4108/3.webp",
+        "public/img/conjunto-4108/4.webp",
+        "public/img/conjunto-4108/5.webp",
+        "public/img/conjunto-4108/6.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-4113",
+      "nombre": "Conjunto 4113",
+      "precio": 50000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-4113/1.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-4115",
+      "nombre": "Babydoll 4115",
+      "precio": 105300,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-4115/1.webp",
+        "public/img/babydoll-4115/2.webp",
+        "public/img/babydoll-4115/3.webp",
+        "public/img/babydoll-4115/4.webp",
+        "public/img/babydoll-4115/5.webp",
+        "public/img/babydoll-4115/6.webp",
+        "public/img/babydoll-4115/7.webp",
+        "public/img/babydoll-4115/8.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-4117",
+      "nombre": "Babydoll 4117",
+      "precio": 98000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-4117/1.webp",
+        "public/img/babydoll-4117/2.webp",
+        "public/img/babydoll-4117/3.webp",
+        "public/img/babydoll-4117/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-4127",
+      "nombre": "Babydoll 4127",
+      "precio": 75000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-4127/1.webp",
+        "public/img/babydoll-4127/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-4128",
+      "nombre": "Babydoll 4128",
+      "precio": 115000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-4128/1.webp",
+        "public/img/babydoll-4128/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "body-7702",
+      "nombre": "Body 7702",
+      "precio": 85000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/body-7702/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-7704",
+      "nombre": "Conjunto 7704",
+      "precio": 80000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-7704/1.webp",
+        "public/img/conjunto-7704/2.webp",
+        "public/img/conjunto-7704/3.webp",
+        "public/img/conjunto-7704/4.webp"
+      ],
+      "descripcion": "Tallas: 38-40-42",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-7717",
+      "nombre": "Conjunto 7717",
+      "precio": 80000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-7717/1.webp",
+        "public/img/conjunto-7717/2.webp",
+        "public/img/conjunto-7717/3.webp"
+      ],
+      "descripcion": "Tallas: 38-40-42",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "body-7719",
+      "nombre": "Body 7719",
+      "precio": 89000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/body-7719/1.webp"
+      ],
+      "descripcion": "Tallas: 38-40-42-44",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-7735",
+      "nombre": "Conjunto 7735",
+      "precio": 90000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-7735/1.webp",
+        "public/img/conjunto-7735/2.webp",
+        "public/img/conjunto-7735/3.webp",
+        "public/img/conjunto-7735/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-erotico-8002",
+      "nombre": "Set Erótico 8002",
+      "precio": 115800,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-erotico-8002/1.webp",
+        "public/img/set-erotico-8002/2.webp",
+        "public/img/set-erotico-8002/3.webp",
+        "public/img/set-erotico-8002/4.webp",
+        "public/img/set-erotico-8002/5.webp",
+        "public/img/set-erotico-8002/6.webp",
+        "public/img/set-erotico-8002/7.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-blonda-8006",
+      "nombre": "Corset Blonda 8006",
+      "precio": 105500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-blonda-8006/1.webp",
+        "public/img/corset-blonda-8006/2.webp",
+        "public/img/corset-blonda-8006/3.webp",
+        "public/img/corset-blonda-8006/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-8015",
+      "nombre": "Babydoll 8015",
+      "precio": 101500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-8015/1.webp",
+        "public/img/babydoll-8015/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-babydoll-8015",
+      "nombre": "Babydoll Babydoll 8015",
+      "precio": 101500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-babydoll-8015/1.webp",
+        "public/img/babydoll-babydoll-8015/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8038",
+      "nombre": "Conjunto 8038",
+      "precio": 85000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8038/1.webp",
+        "public/img/conjunto-8038/2.webp",
+        "public/img/conjunto-8038/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8046",
+      "nombre": "Conjunto 8046",
+      "precio": 95000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8046/1.webp",
+        "public/img/conjunto-8046/2.webp",
+        "public/img/conjunto-8046/3.webp",
+        "public/img/conjunto-8046/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-8047",
+      "nombre": "Set 8047",
+      "precio": 89000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-8047/1.webp",
+        "public/img/set-8047/2.webp",
+        "public/img/set-8047/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-valentin-8049",
+      "nombre": "Set Valentin 8049",
+      "precio": 89000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-valentin-8049/1.webp",
+        "public/img/set-valentin-8049/2.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-erotico-8070",
+      "nombre": "Set Erótico 8070",
+      "precio": 106000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-erotico-8070/1.webp",
+        "public/img/set-erotico-8070/2.webp",
+        "public/img/set-erotico-8070/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36- 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-8071",
+      "nombre": "Babydoll 8071",
+      "precio": 117000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-8071/1.webp",
+        "public/img/babydoll-8071/2.webp",
+        "public/img/babydoll-8071/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8092",
+      "nombre": "Conjunto 8092",
+      "precio": 80000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8092/1.webp",
+        "public/img/conjunto-8092/2.webp",
+        "public/img/conjunto-8092/3.webp",
+        "public/img/conjunto-8092/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-8483",
+      "nombre": "Babydoll 8483",
+      "precio": 85000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-8483/1.webp",
+        "public/img/babydoll-8483/2.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-babydoll-8483",
+      "nombre": "Babydoll Babydoll 8483",
+      "precio": 85000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-babydoll-8483/1.webp"
+      ],
+      "descripcion": "Tallas: 32 - 34 - 36 - 38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8528",
+      "nombre": "Conjunto 8528",
+      "precio": 105900,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8528/1.webp",
+        "public/img/conjunto-8528/2.webp",
+        "public/img/conjunto-8528/3.webp",
+        "public/img/conjunto-8528/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8531",
+      "nombre": "Conjunto 8531",
+      "precio": 102000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8531/1.webp",
+        "public/img/conjunto-8531/2.webp",
+        "public/img/conjunto-8531/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-erotico-8538",
+      "nombre": "Corset Erotico 8538",
+      "precio": 120000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-erotico-8538/1.webp",
+        "public/img/corset-erotico-8538/2.webp",
+        "public/img/corset-erotico-8538/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-8556",
+      "nombre": "Corset 8556",
+      "precio": 93000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-8556/1.webp",
+        "public/img/corset-8556/2.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "corset-8558",
+      "nombre": "Corset 8558",
+      "precio": 121000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/corset-8558/1.webp",
+        "public/img/corset-8558/2.webp",
+        "public/img/corset-8558/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8566",
+      "nombre": "Conjunto 8566",
+      "precio": 88700,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8566/1.webp",
+        "public/img/conjunto-8566/2.webp",
+        "public/img/conjunto-8566/3.webp",
+        "public/img/conjunto-8566/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "body-8625",
+      "nombre": "Body 8625",
+      "precio": 110500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/body-8625/1.webp"
+      ],
+      "descripcion": "Tallas: 32-36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "body-body-8625",
+      "nombre": "Body Body 8625",
+      "precio": 110500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/body-body-8625/1.webp"
+      ],
+      "descripcion": "Tallas: 32-36",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-8654",
+      "nombre": "Set 8654",
+      "precio": 105000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-8654/1.webp",
+        "public/img/set-8654/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8668",
+      "nombre": "Conjunto 8668",
+      "precio": 87500,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8668/1.webp",
+        "public/img/conjunto-8668/2.webp",
+        "public/img/conjunto-8668/3.webp",
+        "public/img/conjunto-8668/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-8911",
+      "nombre": "Conjunto 8911",
+      "precio": 89000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-8911/1.webp",
+        "public/img/conjunto-8911/2.webp",
+        "public/img/conjunto-8911/3.webp",
+        "public/img/conjunto-8911/4.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-15042",
+      "nombre": "Set 15042",
+      "precio": 55000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-15042/1.webp",
+        "public/img/set-15042/2.webp",
+        "public/img/set-15042/3.webp",
+        "public/img/set-15042/4.webp",
+        "public/img/set-15042/5.webp",
+        "public/img/set-15042/6.webp",
+        "public/img/set-15042/7.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-set-15042",
+      "nombre": "Set Set 15042",
+      "precio": 55000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-set-15042/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-erotico-15090",
+      "nombre": "Set Erótico 15090",
+      "precio": 90000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-erotico-15090/1.webp",
+        "public/img/set-erotico-15090/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-erotico-15091",
+      "nombre": "Set Erótico 15091",
+      "precio": 0,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-erotico-15091/1.webp",
+        "public/img/set-erotico-15091/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-15305",
+      "nombre": "Set 15305",
+      "precio": 50000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-15305/1.webp",
+        "public/img/set-15305/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-set-15305",
+      "nombre": "Set Set 15305",
+      "precio": 50000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-set-15305/1.webp",
+        "public/img/set-set-15305/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-15306",
+      "nombre": "Set 15306",
+      "precio": 50000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-15306/1.webp",
+        "public/img/set-15306/2.webp",
+        "public/img/set-15306/3.webp",
+        "public/img/set-15306/4.webp",
+        "public/img/set-15306/5.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-set-15306",
+      "nombre": "Set Set 15306",
+      "precio": 50000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-set-15306/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-erotico-15360",
+      "nombre": "Set Erótico 15360",
+      "precio": 55000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-erotico-15360/1.webp",
+        "public/img/set-erotico-15360/2.webp",
+        "public/img/set-erotico-15360/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-15855",
+      "nombre": "Set 15855",
+      "precio": 54000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-15855/1.webp",
+        "public/img/set-15855/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-set-15855",
+      "nombre": "Set Set 15855",
+      "precio": 54000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-set-15855/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-64102",
+      "nombre": "Set 64102",
+      "precio": 95000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-64102/1.webp",
+        "public/img/set-64102/2.webp",
+        "public/img/set-64102/3.webp",
+        "public/img/set-64102/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-64103",
+      "nombre": "Conjunto 64103",
+      "precio": 89000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-64103/1.webp",
+        "public/img/conjunto-64103/2.webp",
+        "public/img/conjunto-64103/3.webp",
+        "public/img/conjunto-64103/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "babydoll-64106",
+      "nombre": "Babydoll 64106",
+      "precio": 128000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/babydoll-64106/1.webp",
+        "public/img/babydoll-64106/2.webp",
+        "public/img/babydoll-64106/3.webp",
+        "public/img/babydoll-64106/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "tanga-71156",
+      "nombre": "Tanga 71156",
+      "precio": 20000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/tanga-71156/1.webp",
+        "public/img/tanga-71156/2.webp",
+        "public/img/tanga-71156/3.webp",
+        "public/img/tanga-71156/4.webp",
+        "public/img/tanga-71156/5.webp",
+        "public/img/tanga-71156/6.webp",
+        "public/img/tanga-71156/7.webp",
+        "public/img/tanga-71156/8.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "tanga-71157",
+      "nombre": "Tanga 71157",
+      "precio": 20000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/tanga-71157/1.webp",
+        "public/img/tanga-71157/2.webp",
+        "public/img/tanga-71157/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-80101",
+      "nombre": "Conjunto 80101",
+      "precio": 60000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-80101/1.webp",
+        "public/img/conjunto-80101/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-conjunto-80101",
+      "nombre": "Conjunto Conjunto 80101",
+      "precio": 60000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-conjunto-80101/1.webp",
+        "public/img/conjunto-conjunto-80101/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-80103",
+      "nombre": "Conjunto 80103",
+      "precio": 70000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-80103/1.webp",
+        "public/img/conjunto-80103/2.webp",
+        "public/img/conjunto-80103/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-80539",
+      "nombre": "Conjunto 80539",
+      "precio": 95000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-80539/1.webp",
+        "public/img/conjunto-80539/2.webp",
+        "public/img/conjunto-80539/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-80542",
+      "nombre": "Conjunto 80542",
+      "precio": 95000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-80542/1.webp",
+        "public/img/conjunto-80542/2.webp",
+        "public/img/conjunto-80542/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-liguero-80543",
+      "nombre": "Set Liguero 80543",
+      "precio": 65000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-liguero-80543/1.webp",
+        "public/img/set-liguero-80543/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-liguero-set-liguero-80543",
+      "nombre": "Set Liguero Set Liguero 80543",
+      "precio": 65000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-liguero-set-liguero-80543/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-copa-80544",
+      "nombre": "Conjunto Copa 80544",
+      "precio": 78000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-copa-80544/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-lycra-80549",
+      "nombre": "Conjunto Lycra 80549",
+      "precio": 70000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-lycra-80549/1.webp",
+        "public/img/conjunto-lycra-80549/2.webp",
+        "public/img/conjunto-lycra-80549/3.webp",
+        "public/img/conjunto-lycra-80549/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-80555",
+      "nombre": "Conjunto 80555",
+      "precio": 94000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-80555/1.webp",
+        "public/img/conjunto-80555/2.webp",
+        "public/img/conjunto-80555/3.webp",
+        "public/img/conjunto-80555/4.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-conjunto-80555",
+      "nombre": "Conjunto Conjunto 80555",
+      "precio": 94000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-conjunto-80555/1.webp",
+        "public/img/conjunto-conjunto-80555/2.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "conjunto-print-85550",
+      "nombre": "Conjunto Print 85550",
+      "precio": 85000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/conjunto-print-85550/1.webp",
+        "public/img/conjunto-print-85550/2.webp",
+        "public/img/conjunto-print-85550/3.webp"
+      ],
+      "descripcion": "Tallas: 32-34-36-38",
+      "activo": true,
+      "bajo_pedido": true
+    },
+    {
+      "codigo": "set-86108",
+      "nombre": "Set 86108",
+      "precio": 135000,
+      "categoria": "lenceria",
+      "imagenes": [
+        "public/img/set-86108/1.webp",
+        "public/img/set-86108/2.webp",
+        "public/img/set-86108/3.webp"
+      ],
+      "descripcion": "",
+      "activo": true,
+      "bajo_pedido": true
     }
   ]
 }

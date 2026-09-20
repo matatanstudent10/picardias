@@ -92,6 +92,15 @@ a{color:inherit; text-decoration:none}
 .price{font-family:var(--serif); font-size:1.25rem; color:var(--pink-2); font-weight:600; margin:.1rem 0 0}
 .card .btn{margin-top:auto; padding:.5rem; font-size:.85rem}
 .empty{text-align:center; color:var(--muted); padding:3rem 0}
+.badge-bp{position:absolute; top:.5rem; left:.5rem; background:rgba(10,5,7,.82); color:var(--gold);
+  border:1px solid var(--gold); font-size:.62rem; letter-spacing:.08em; text-transform:uppercase;
+  padding:.2rem .5rem; border-radius:999px; font-weight:500; backdrop-filter:blur(4px)}
+.notice{background:linear-gradient(120deg,rgba(231,182,103,.14),rgba(240,40,122,.12));
+  border:1px solid var(--gold); color:var(--text); border-radius:12px; padding:.8rem 1rem;
+  font-size:.9rem; margin-bottom:1rem}
+.notice strong{color:var(--gold)}
+.bp-note{background:rgba(231,182,103,.12); border:1px solid rgba(231,182,103,.4); color:var(--text);
+  border-radius:10px; padding:.55rem .7rem; font-size:.82rem; margin:.2rem 0}
 
 /* ---------- Modal ---------- */
 .modal,.cart{position:fixed; z-index:60}

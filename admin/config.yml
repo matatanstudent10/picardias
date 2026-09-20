@@ -60,3 +60,4 @@ collections:
         field: { label: "Imagen", name: image, widget: image }
       - { label: "Descripción", name: descripcion, widget: text, required: false }
       - { label: "Activo (visible en la tienda)", name: activo, widget: boolean, default: true }
+      - { label: "Bajo pedido (no entrega al día siguiente)", name: bajo_pedido, widget: boolean, default: false, required: false }

@@ -49,11 +49,12 @@ def main():
         try: precio = int(str(d.get("precio", "0")).replace(".", "").replace(",", "") or 0)
         except ValueError: precio = 0
         activo = str(d.get("activo", "true")).lower() != "false"
+        bajo_pedido = str(d.get("bajo_pedido", "false")).lower() == "true"
         prods.append({
             "codigo": str(d["codigo"]), "nombre": d.get("nombre", ""), "precio": precio,
             "categoria": d.get("categoria", "otros"),
             "imagenes": d.get("imagenes", []) if isinstance(d.get("imagenes"), list) else [],
-            "descripcion": d.get("descripcion", ""), "activo": activo,
+            "descripcion": d.get("descripcion", ""), "activo": activo, "bajo_pedido": bajo_pedido,
         })
     prods.sort(key=lambda p: (int(re.sub(r"\D", "", p["codigo"]) or 0)))
     usadas = {p["categoria"] for p in prods}
