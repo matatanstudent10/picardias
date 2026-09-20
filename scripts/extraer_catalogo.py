@@ -168,7 +168,7 @@ def imgs_pagina(page):
         rs = page.get_image_rects(x)
         if not rs: continue
         r = rs[0]
-        if not (120 <= r.width <= 700 and 120 <= r.height <= 700): continue
+        if not (60 <= r.width <= 450 and 60 <= r.height <= 450): continue  # excluye banner 613x1076 y iconos
         seen.add(x)
         out.append((round(r.y0 / 40), r.x0, x))
     out.sort(key=lambda t: (t[0], t[1]))
@@ -201,7 +201,7 @@ def main():
     for i in range(doc.page_count):
         page = doc[i]
         xs = imgs_pagina(page)
-        if len(xs) < 4:   # portada / divisor / índice
+        if len(xs) < 1:   # portada / divisor / índice (sin fotos de producto)
             continue
         cs = codes_pagina(page)
         for k, x in enumerate(xs):

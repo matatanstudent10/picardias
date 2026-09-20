@@ -688,7 +688,9 @@
       "nombre": "Lubricante frio caliente 5 sensaciones Lubricantes neutros-saborizados",
       "precio": 29800,
       "categoria": "frio-caliente",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/51/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -940,7 +942,9 @@
       "nombre": "Lubricante tipo Cum 250ML",
       "precio": 47800,
       "categoria": "frio-caliente",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/70/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -950,7 +954,9 @@
       "nombre": "Lubricante neutro sen intimo 30ML",
       "precio": 31200,
       "categoria": "frio-caliente",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/71/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1288,7 +1294,9 @@
       "nombre": "Lubricante anal en silicona max",
       "precio": 33000,
       "categoria": "anales-retardantes",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/95/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1298,7 +1306,9 @@
       "nombre": "Lubricante anal en silicona lube",
       "precio": 33000,
       "categoria": "anales-retardantes",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/96/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1404,7 +1414,9 @@
       "nombre": "Retardante en spray",
       "precio": 25000,
       "categoria": "anales-retardantes",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/105/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1570,7 +1582,9 @@
       "nombre": "Sachet x-bull mujer",
       "precio": 6000,
       "categoria": "potenciadores",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/119/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1593,7 +1607,9 @@
       "nombre": "Sachet x-bull hombre",
       "precio": 6000,
       "categoria": "potenciadores",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/120/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1603,7 +1619,9 @@
       "nombre": "Vitafer en tarro",
       "precio": 57800,
       "categoria": "potenciadores",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/121/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1625,7 +1643,9 @@
       "nombre": "Aceite para masajes 30 ML sabores surtidos",
       "precio": 20400,
       "categoria": "potenciadores",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/122/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1647,7 +1667,9 @@
       "nombre": "Aceite para masajes 40 ML sabores surtidos",
       "precio": 25800,
       "categoria": "potenciadores",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/123/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1657,7 +1679,9 @@
       "nombre": "Vela para masajes fragancias surtidas",
       "precio": 37800,
       "categoria": "para-masajes",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/124/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1667,7 +1691,9 @@
       "nombre": "kit sensual # 1",
       "precio": 33800,
       "categoria": "para-masajes",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/125/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1677,7 +1703,9 @@
       "nombre": "kit sensual # 2",
       "precio": 37800,
       "categoria": "kits",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/126/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1687,7 +1715,9 @@
       "nombre": "kit sensual # 3",
       "precio": 37800,
       "categoria": "kits",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/127/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1916,7 +1946,9 @@
       "nombre": "Splah con feromonas",
       "precio": 41800,
       "categoria": "feromonas",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/142/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1926,7 +1958,9 @@
       "nombre": "Crema hidratante con feromonas sexy",
       "precio": 41800,
       "categoria": "feromonas",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/143/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1936,7 +1970,9 @@
       "nombre": "Crema hidratante con feromonas seduction",
       "precio": 41800,
       "categoria": "feromonas",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/144/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1946,7 +1982,9 @@
       "nombre": "Crema hidratante con feromonas radiant",
       "precio": 41800,
       "categoria": "feromonas",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/145/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -1956,7 +1994,9 @@
       "nombre": "Crema hidratante con feromonas forever",
       "precio": 41800,
       "categoria": "feromonas",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/146/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -2854,7 +2894,9 @@
       "nombre": "Huevo vibradoe pilas",
       "precio": 16000,
       "categoria": "balas-huevos",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/221/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -2864,7 +2906,9 @@
       "nombre": "Bala con funda",
       "precio": 26000,
       "categoria": "balas-huevos",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/222/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -2874,7 +2918,9 @@
       "nombre": "Bala vibradora pilas",
       "precio": 26000,
       "categoria": "balas-huevos",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/223/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false

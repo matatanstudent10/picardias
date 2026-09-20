@@ -9,7 +9,7 @@
 
   const $ = (s, c = document) => c.querySelector(s);
   const $$ = (s, c = document) => [...c.querySelectorAll(s)];
-  const fmt = (n) => MONEDA + (n || 0).toLocaleString("es-CO");
+  const fmt = (n) => MONEDA + (n || 0).toLocaleString("es-CO") + " COP";
   const waUrl = (txt) => `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(txt)}`;
 
   let PRODUCTOS = [], CATS = [], filtro = "all", q = "";
