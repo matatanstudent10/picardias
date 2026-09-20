@@ -1,0 +1,5 @@
+# temporales
+scripts/_*.txt
+*.pyc
+__pycache__/
+.DS_Store

@@ -1,0 +1,2763 @@
+{
+  "categorias": [
+    {
+      "slug": "lubricantes-calientes",
+      "nombre": "Lubricantes Calientes"
+    },
+    {
+      "slug": "electrizantes",
+      "nombre": "Lubricantes Electrizantes"
+    },
+    {
+      "slug": "frio-caliente",
+      "nombre": "Frío - Caliente"
+    },
+    {
+      "slug": "multiorgasmo",
+      "nombre": "Lubricantes Multiorgasmo"
+    },
+    {
+      "slug": "anales-retardantes",
+      "nombre": "Anales Retardantes"
+    },
+    {
+      "slug": "estrechantes",
+      "nombre": "Estrechantes"
+    },
+    {
+      "slug": "potenciadores",
+      "nombre": "Potenciadores"
+    },
+    {
+      "slug": "para-masajes",
+      "nombre": "Para Masajes"
+    },
+    {
+      "slug": "kits",
+      "nombre": "Kits"
+    },
+    {
+      "slug": "feromonas",
+      "nombre": "Feromonas"
+    },
+    {
+      "slug": "juegos",
+      "nombre": "Juegos"
+    },
+    {
+      "slug": "anillos-fundas",
+      "nombre": "Anillos - Fundas"
+    },
+    {
+      "slug": "balas-huevos",
+      "nombre": "Balas - Huevos"
+    },
+    {
+      "slug": "arnes-sado",
+      "nombre": "Arnés - Sado"
+    },
+    {
+      "slug": "masturbadores",
+      "nombre": "Masturbadores"
+    },
+    {
+      "slug": "otros",
+      "nombre": "Otros"
+    }
+  ],
+  "productos": [
+    {
+      "codigo": "01",
+      "nombre": "Lubricante caliente sabor mango biche",
+      "precio": 18400,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/01/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "02",
+      "nombre": "Lubricante caliente sabor arequipe",
+      "precio": 18400,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/02/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "03",
+      "nombre": "Lubricante caliente neutro",
+      "precio": 18400,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/03/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "04",
+      "nombre": "Lubricante caliente corazón sabores surtidos",
+      "precio": 16800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/04/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "05",
+      "nombre": "Lubricante caliente 14 Ml sabores surtidos",
+      "precio": 15000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/05/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "06",
+      "nombre": "Lubricante caliente Hot Stuff 80ML sabores surtidos",
+      "precio": 25800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/06/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "07",
+      "nombre": "Sachet lubricante caliente neutro",
+      "precio": 4500,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/07/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "08",
+      "nombre": "Lubricante caliente Hot Stuff 40 ML sabores surtidos",
+      "precio": 21000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/08/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "09",
+      "nombre": "Lubricante caliente helado de vainilla",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/09/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "10",
+      "nombre": "Lubricante caliente sabor hierba buena",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/10/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "11",
+      "nombre": "Lubricante caliente sabor caramelo",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/11/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "12",
+      "nombre": "Lubricante caliente frutos rojos",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/12/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "13",
+      "nombre": "Lubricante caliente 14 ML con dados, sabores surtidos",
+      "precio": 20000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/13/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "14",
+      "nombre": "Lubricante caliente licor lush sabores surtidos",
+      "precio": 20800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/14/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "15",
+      "nombre": "Erotic ball sabores surtidos",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/15/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "16",
+      "nombre": "Erotic ball X3",
+      "precio": 40000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/16/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "17",
+      "nombre": "Lubricante caliente chocolate",
+      "precio": 32600,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/17/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "18",
+      "nombre": "Lubricante caliente caramelo",
+      "precio": 32600,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/18/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "19",
+      "nombre": "Sachet lubricante caliente sabores surtidos",
+      "precio": 5000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/19/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "20",
+      "nombre": "Lubricante caliente algodon de azúcar",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/20/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "21",
+      "nombre": "Sachet Lubricante caliente mango biche",
+      "precio": 4800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/21/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "22",
+      "nombre": "Lubricante caliente postre de limón",
+      "precio": 24000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/22/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "23",
+      "nombre": "Lubricante caliente crema de whiskey",
+      "precio": 32600,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/23/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "24",
+      "nombre": "Lubricante caliente cappuccino",
+      "precio": 32600,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/24/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "25",
+      "nombre": "Lubricante caliente Hot gel 40 Ml",
+      "precio": 21800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/25/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "26",
+      "nombre": "Lubricante caliente hot gel 80 ML",
+      "precio": 26900,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/26/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "27",
+      "nombre": "Sachet Lubricante licor lush sabores surtidos",
+      "precio": 5000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/27/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "28",
+      "nombre": "Sachet lubricante caliente sabor chocolate",
+      "precio": 9800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/28/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "29",
+      "nombre": "Sachet lubricante caliente sabor caramelo",
+      "precio": 9800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/29/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "30",
+      "nombre": "Sachet lubricante caliente crema de whisky",
+      "precio": 9800,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/30/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "31",
+      "nombre": "Lubricante caliente sabor maracuyá",
+      "precio": 35000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/31/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "32",
+      "nombre": "Lubricante caliente sabor cereza",
+      "precio": 35000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/32/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "33",
+      "nombre": "Lubricante caliente sabor tropical",
+      "precio": 35000,
+      "categoria": "lubricantes-calientes",
+      "imagenes": [
+        "public/img/33/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "34",
+      "nombre": "Lubricante electrizante crema de baileys",
+      "precio": 39600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/34/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "35",
+      "nombre": "Lubricante electrizante frio",
+      "precio": 49600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/35/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "36",
+      "nombre": "Lubricante electrizante lychee",
+      "precio": 49600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/36/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "37",
+      "nombre": "Lubricante electrizante mango",
+      "precio": 49600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/37/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "38",
+      "nombre": "Lubricante electrizante tequila",
+      "precio": 49600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/38/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "39",
+      "nombre": "Lubricante electrizante coffe caramelo",
+      "precio": 39600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/39/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "40",
+      "nombre": "Lubricante electrizante maracuyá",
+      "precio": 39600,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/40/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "41",
+      "nombre": "vibrador liquido caliente $",
+      "precio": 0,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/41/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "42",
+      "nombre": "Lubricante electrizante crema de whisky $",
+      "precio": 0,
+      "categoria": "electrizantes",
+      "imagenes": [
+        "public/img/42/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "43",
+      "nombre": "Lubricante frio caliente mentolado",
+      "precio": 18400,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/43/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "44",
+      "nombre": "Lubricante frio caliente piña colada",
+      "precio": 24000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/44/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "45",
+      "nombre": "Lubricante frio caliente",
+      "precio": 52000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/45/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "46",
+      "nombre": "Lubricante frio caliente hierba buena",
+      "precio": 21800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/46/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "47",
+      "nombre": "Sachet lubricante frio caliente mentolado",
+      "precio": 4400,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/47/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "48",
+      "nombre": "Lubricante frio caliente blueberry",
+      "precio": 21800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/48/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "49",
+      "nombre": "Lubricante frio caliente tutti frutti",
+      "precio": 21800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/49/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "50",
+      "nombre": "Lubricante frio caliente",
+      "precio": 21800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/50/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "51",
+      "nombre": "Lubricante frio caliente 5 sensaciones Lubricantes neutros-saborizados",
+      "precio": 29800,
+      "categoria": "frio-caliente",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "52",
+      "nombre": "Lubricante neutro 30ML",
+      "precio": 18400,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/52/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "53",
+      "nombre": "Lubricante neutro 500 ML",
+      "precio": 61000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/53/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "54",
+      "nombre": "Lubricante neutro H2o",
+      "precio": 24000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/54/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "55",
+      "nombre": "Sachet lubricante neutro H2o",
+      "precio": 5600,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/55/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "56",
+      "nombre": "Lubricante neutro",
+      "precio": 13800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/56/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "57",
+      "nombre": "Lubricante neutro",
+      "precio": 17400,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/57/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "58",
+      "nombre": "Sachet lubricante neutro",
+      "precio": 2500,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/58/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "59",
+      "nombre": "Lubricante neutro silicona",
+      "precio": 29000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/59/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "60",
+      "nombre": "Lubricante neutro sabor Brownie",
+      "precio": 25800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/60/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "61",
+      "nombre": "Lubricante neutro sabor granadina",
+      "precio": 18400,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/61/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "62",
+      "nombre": "Lubricante neutro sabor sandía",
+      "precio": 18400,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/62/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "63",
+      "nombre": "Lubricante neutro",
+      "precio": 20800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/63/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "64",
+      "nombre": "Lubricante neutro sabor Bombombun",
+      "precio": 20800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/64/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "65",
+      "nombre": "lubricante neutro intimate",
+      "precio": 19800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/65/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "66",
+      "nombre": "Lubricante neutro H2o 300ML",
+      "precio": 45000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/66/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "67",
+      "nombre": "Lubricante neutro 500ML",
+      "precio": 67800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/67/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "68",
+      "nombre": "Lubricante neutro 250ML",
+      "precio": 45800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/68/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "69",
+      "nombre": "Lubricante tipo Cum 500ML",
+      "precio": 71800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/69/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "70",
+      "nombre": "Lubricante tipo Cum 250ML",
+      "precio": 47800,
+      "categoria": "frio-caliente",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "71",
+      "nombre": "Lubricante neutro sen intimo 30ML",
+      "precio": 31200,
+      "categoria": "frio-caliente",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "72",
+      "nombre": "Lubricante multiorgasmo frio",
+      "precio": 30000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/72/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "73",
+      "nombre": "Lubricante multiorgasmo caliente",
+      "precio": 30000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/73/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "74",
+      "nombre": "lubricante multiorgasmo efectto premium buzzy",
+      "precio": 39000,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/74/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "75",
+      "nombre": "Lubricante multiorgasmo frio",
+      "precio": 19800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/75/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "76",
+      "nombre": "Lubricante multiorgasmo caliente gel",
+      "precio": 19800,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/76/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "77",
+      "nombre": "Sachet lubricante multiorgasmo caliente",
+      "precio": 5600,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/77/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "78",
+      "nombre": "Sachet lubricante multiorgasmo frio",
+      "precio": 5600,
+      "categoria": "frio-caliente",
+      "imagenes": [
+        "public/img/78/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "79",
+      "nombre": "Sachet Lubricantelubricante multiorgasmo caliente",
+      "precio": 5000,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/79/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "80",
+      "nombre": "Lubricante multiorgasmo caliente crema mini multi",
+      "precio": 12200,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/80/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "81",
+      "nombre": "Sachet lubricante multiorgasmo frio",
+      "precio": 5000,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/81/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "82",
+      "nombre": "Lubricante multiorgasmo con CBD",
+      "precio": 45800,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/82/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "83",
+      "nombre": "Lubricante multiorgasmo",
+      "precio": 45800,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/83/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "84",
+      "nombre": "Lubricante multiorgasmo $",
+      "precio": 0,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/84/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "85",
+      "nombre": "Lubricante multiorgasmo electrizante",
+      "precio": 49600,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/85/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "86",
+      "nombre": "Lubricante anal en gel nutidé",
+      "precio": 25600,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/86/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "87",
+      "nombre": "Sachet lubricante anal en gel intensify",
+      "precio": 5600,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/87/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "88",
+      "nombre": "Lubricante mini anal crema",
+      "precio": 12200,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/88/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "89",
+      "nombre": "Sachet easy anal en crema",
+      "precio": 5000,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/89/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "90",
+      "nombre": "Lubricante anal en gel",
+      "precio": 24800,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/90/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "91",
+      "nombre": "Lubricante anal en silicona",
+      "precio": 30800,
+      "categoria": "multiorgasmo",
+      "imagenes": [
+        "public/img/91/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "92",
+      "nombre": "lubricante anal electrizante",
+      "precio": 50600,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/92/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "93",
+      "nombre": "Lubricante anal desensibilizante",
+      "precio": 49600,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/93/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "94",
+      "nombre": "Lubricante anal en gel",
+      "precio": 30000,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/94/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "95",
+      "nombre": "Lubricante anal en silicona max",
+      "precio": 33000,
+      "categoria": "anales-retardantes",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "96",
+      "nombre": "Lubricante anal en silicona lube",
+      "precio": 33000,
+      "categoria": "anales-retardantes",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "97",
+      "nombre": "Retardante en spray",
+      "precio": 22000,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/97/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "98",
+      "nombre": "Retardante en gel delay",
+      "precio": 30000,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/98/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "99",
+      "nombre": "Retardante en crema caliente 3GR",
+      "precio": 15800,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/99/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "100",
+      "nombre": "Sachet retardante en gel delay",
+      "precio": 5600,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/100/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "101",
+      "nombre": "Retardante thunder en gel",
+      "precio": 24800,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/101/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "102",
+      "nombre": "Retardante mini thunder en crema",
+      "precio": 12200,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/102/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "103",
+      "nombre": "Sachet thunder en crema",
+      "precio": 5000,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/103/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "104",
+      "nombre": "Retardante en crema frio 3GR",
+      "precio": 15800,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/104/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "105",
+      "nombre": "Retardante en spray",
+      "precio": 25000,
+      "categoria": "anales-retardantes",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "106",
+      "nombre": "Lubricante estrechante",
+      "precio": 52200,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/106/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "107",
+      "nombre": "Estrechante mini virgin en crema 3GR",
+      "precio": 12200,
+      "categoria": "anales-retardantes",
+      "imagenes": [
+        "public/img/107/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "108",
+      "nombre": "Sachet virgin en crema",
+      "precio": 5000,
+      "categoria": "estrechantes",
+      "imagenes": [
+        "public/img/108/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "109",
+      "nombre": "Estrechante virgin en gel",
+      "precio": 19800,
+      "categoria": "estrechantes",
+      "imagenes": [
+        "public/img/109/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "110",
+      "nombre": "Estrechante vaginal 21",
+      "precio": 56000,
+      "categoria": "estrechantes",
+      "imagenes": [
+        "public/img/110/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "111",
+      "nombre": "Pastilla potenciadora blix mujer",
+      "precio": 35000,
+      "categoria": "estrechantes",
+      "imagenes": [
+        "public/img/111/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "112",
+      "nombre": "Pastilla potenciadora blix hombre",
+      "precio": 35000,
+      "categoria": "estrechantes",
+      "imagenes": [
+        "public/img/112/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "113",
+      "nombre": "Pastilla potenciadora emental X3",
+      "precio": 5000,
+      "categoria": "potenciadores",
+      "imagenes": [
+        "public/img/113/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "114",
+      "nombre": "Pastilla potenciadora powers X hombre X4",
+      "precio": 5000,
+      "categoria": "potenciadores",
+      "imagenes": [
+        "public/img/114/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "115",
+      "nombre": "Pastilla potenciadora powers X mujer X4",
+      "precio": 8000,
+      "categoria": "potenciadores",
+      "imagenes": [
+        "public/img/115/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "116",
+      "nombre": "Sachet PK2 potenciador energizante",
+      "precio": 7400,
+      "categoria": "potenciadores",
+      "imagenes": [
+        "public/img/116/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "117",
+      "nombre": "Tarro PK2 potenciador energizante",
+      "precio": 55800,
+      "categoria": "potenciadores",
+      "imagenes": [
+        "public/img/117/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "118",
+      "nombre": "Sachet vitafer potenciador",
+      "precio": 5000,
+      "categoria": "potenciadores",
+      "imagenes": [
+        "public/img/118/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "119",
+      "nombre": "Sachet x-bull mujer",
+      "precio": 6000,
+      "categoria": "potenciadores",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "120",
+      "nombre": "Sachet x-bull hombre",
+      "precio": 6000,
+      "categoria": "potenciadores",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "121",
+      "nombre": "Vitafer en tarro",
+      "precio": 57800,
+      "categoria": "potenciadores",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "122",
+      "nombre": "Aceite para masajes 30 ML sabores surtidos",
+      "precio": 20400,
+      "categoria": "potenciadores",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "123",
+      "nombre": "Aceite para masajes 40 ML sabores surtidos",
+      "precio": 25800,
+      "categoria": "potenciadores",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "124",
+      "nombre": "Vela para masajes fragancias surtidas",
+      "precio": 37800,
+      "categoria": "para-masajes",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "125",
+      "nombre": "kit sensual # 1",
+      "precio": 33800,
+      "categoria": "para-masajes",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "126",
+      "nombre": "kit sensual # 2",
+      "precio": 37800,
+      "categoria": "kits",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "127",
+      "nombre": "kit sensual # 3",
+      "precio": 37800,
+      "categoria": "kits",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "128",
+      "nombre": "Extracto feromonas sex life hombre",
+      "precio": 19800,
+      "categoria": "kits",
+      "imagenes": [
+        "public/img/128/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "129",
+      "nombre": "Extracto feromonas sex life mujer",
+      "precio": 19800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/129/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "130",
+      "nombre": "Locion con feromonas mujer 30 ML",
+      "precio": 29800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/130/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "131",
+      "nombre": "Locion con feromonas hombre 30 ML",
+      "precio": 29800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/131/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "132",
+      "nombre": "Splash blush con feromonas",
+      "precio": 24000,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/132/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "133",
+      "nombre": "Splash con feromonas frutos rojos",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/133/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "134",
+      "nombre": "Crema hidratante con feromonas frutos rojos",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/134/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "135",
+      "nombre": "Brillo labial con feromonas cereza 20 ML",
+      "precio": 41200,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/135/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "136",
+      "nombre": "Brillo labial con feromonas frutos rojos 10ML",
+      "precio": 22000,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/136/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "137",
+      "nombre": "Lip gloss con feromonas",
+      "precio": 28800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/137/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "138",
+      "nombre": "Agua de rosas con feromonas",
+      "precio": 28800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/138/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "139",
+      "nombre": "Splash con feromonas",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/139/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "140",
+      "nombre": "Splah con feromonas",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/140/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "141",
+      "nombre": "Splah con feromonas",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/141/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "142",
+      "nombre": "Splah con feromonas",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "143",
+      "nombre": "Crema hidratante con feromonas sexy",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "144",
+      "nombre": "Crema hidratante con feromonas seduction",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "145",
+      "nombre": "Crema hidratante con feromonas radiant",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "146",
+      "nombre": "Crema hidratante con feromonas forever",
+      "precio": 41800,
+      "categoria": "feromonas",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "147",
+      "nombre": "Dados X2 luminosos",
+      "precio": 7800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/147/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "148",
+      "nombre": "Dados X2",
+      "precio": 9800,
+      "categoria": "feromonas",
+      "imagenes": [
+        "public/img/148/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "149",
+      "nombre": "Dados X3",
+      "precio": 13800,
+      "categoria": "juegos",
+      "imagenes": [
+        "public/img/149/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "150",
+      "nombre": "Tomatodo poses-penitencia",
+      "precio": 7000,
+      "categoria": "juegos",
+      "imagenes": [
+        "public/img/150/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "151",
+      "nombre": "Juego erotico",
+      "precio": 89800,
+      "categoria": "juegos",
+      "imagenes": [
+        "public/img/151/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "152",
+      "nombre": "Juego de mesa 50 sombras de Grey",
+      "precio": 91800,
+      "categoria": "juegos",
+      "imagenes": [
+        "public/img/152/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "153",
+      "nombre": "Espuma para bañera",
+      "precio": 7000,
+      "categoria": "juegos",
+      "imagenes": [
+        "public/img/153/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "154",
+      "nombre": "Lubricante trio placer",
+      "precio": 52800,
+      "categoria": "juegos",
+      "imagenes": [
+        "public/img/154/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "155",
+      "nombre": "Lubricante after sex",
+      "precio": 63000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/155/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "156",
+      "nombre": "Despigmentante intimo",
+      "precio": 67800,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/156/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "157",
+      "nombre": "Blow pop",
+      "precio": 4000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/157/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "158",
+      "nombre": "Limpiador para juguetes",
+      "precio": 16800,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/158/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "159",
+      "nombre": "Lubricante frio menta",
+      "precio": 31200,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/159/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "160",
+      "nombre": "Power lube garganta profunda",
+      "precio": 27800,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/160/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "161",
+      "nombre": "Garganta profunda",
+      "precio": 44600,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/161/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "162",
+      "nombre": "Sachet hidratante vaginal",
+      "precio": 5800,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/162/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "163",
+      "nombre": "Bomba penis pump",
+      "precio": 60000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/163/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "164",
+      "nombre": "Bomba",
+      "precio": 76000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/164/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "165",
+      "nombre": "Pezonera en silicona",
+      "precio": 25200,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/165/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "166",
+      "nombre": "Tapa pezones en silicona X3 pares",
+      "precio": 14400,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/166/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "167",
+      "nombre": "Tapa pezones X5 pares en flor",
+      "precio": 4000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/167/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "168",
+      "nombre": "Bolsa para ejercicio kegel",
+      "precio": 22000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/168/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "169",
+      "nombre": "Bolas para ejercicio kegel X2",
+      "precio": 30000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/169/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "170",
+      "nombre": "Tapa pezones X5 pares redondos",
+      "precio": 4000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/170/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "171",
+      "nombre": "Ducha anal talla s",
+      "precio": 18000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/171/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "172",
+      "nombre": "Ducha anal talla M",
+      "precio": 22000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/172/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "173",
+      "nombre": "Ducha anal talla L",
+      "precio": 26000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/173/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "174",
+      "nombre": "Lubricante a base de silicona",
+      "precio": 53800,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/174/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "175",
+      "nombre": "Timbre",
+      "precio": 24000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/175/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "176",
+      "nombre": "Hidratante vaginal",
+      "precio": 67800,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/176/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "178",
+      "nombre": "Anillo Vibrador",
+      "precio": 5600,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/178/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "179",
+      "nombre": "Anillo vibrador",
+      "precio": 8000,
+      "categoria": "otros",
+      "imagenes": [
+        "public/img/179/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "180",
+      "nombre": "Anillo vIbrador doble",
+      "precio": 7000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/180/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "181",
+      "nombre": "Anillo vibrador doble",
+      "precio": 12000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/181/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "182",
+      "nombre": "Anillo con sensor",
+      "precio": 70000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/182/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "183",
+      "nombre": "Anillos X3",
+      "precio": 6000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/183/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "184",
+      "nombre": "Fundas para pene",
+      "precio": 8000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/184/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "185",
+      "nombre": "Fundas silicona",
+      "precio": 1400,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/185/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "186",
+      "nombre": "Funda realista con estimulador",
+      "precio": 20000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/186/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "187",
+      "nombre": "Huevo masturbador",
+      "precio": 34000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/187/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "188",
+      "nombre": "Huevo masturbador",
+      "precio": 26000,
+      "categoria": "anillos-fundas",
+      "imagenes": [
+        "public/img/188/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "189",
+      "nombre": "Masturbador hombre",
+      "precio": 30000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/189/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "190",
+      "nombre": "Masturbador Hombre",
+      "precio": 30000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/190/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "191",
+      "nombre": "Masturbador Hombre",
+      "precio": 52000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/191/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "192",
+      "nombre": "Masturbador Hombre",
+      "precio": 52000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/192/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "193",
+      "nombre": "Masturbador hombre",
+      "precio": 99900,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/193/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "194",
+      "nombre": "Masturbador Hombre",
+      "precio": 19800,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/194/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "195",
+      "nombre": "Masturbador hombre realista",
+      "precio": 170000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/195/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "196",
+      "nombre": "Masturbadora",
+      "precio": 110000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/196/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "197",
+      "nombre": "Masturbador control",
+      "precio": 560000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/197/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "198",
+      "nombre": "Masturbador",
+      "precio": 156000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/198/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "199",
+      "nombre": "Masturbador Hombre",
+      "precio": 156000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/199/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "200",
+      "nombre": "Masturbador Hombre",
+      "precio": 156000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/200/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "201",
+      "nombre": "Masturbador realista",
+      "precio": 70000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/201/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "202",
+      "nombre": "Masturbador hombre",
+      "precio": 200000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/202/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "203",
+      "nombre": "Bala vibradora",
+      "precio": 90000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/203/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "204",
+      "nombre": "Labial masajeador",
+      "precio": 90000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/204/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "205",
+      "nombre": "Labial masajeador",
+      "precio": 90000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/205/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "206",
+      "nombre": "Bala vibradora",
+      "precio": 46000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/206/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "207",
+      "nombre": "Huevo concha",
+      "precio": 24000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/207/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "208",
+      "nombre": "Huevo USB vibrador-subsionador",
+      "precio": 17000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/208/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "209",
+      "nombre": "Huevo vibrador control",
+      "precio": 56000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/209/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "210",
+      "nombre": "Huevo vibrador control",
+      "precio": 76000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/210/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "211",
+      "nombre": "Huevo vibrador control",
+      "precio": 108000,
+      "categoria": "masturbadores",
+      "imagenes": [
+        "public/img/211/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "212",
+      "nombre": "Huevo vibrador",
+      "precio": 64000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/212/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "213",
+      "nombre": "Huevo vibrador control",
+      "precio": 96000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/213/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "214",
+      "nombre": "vibrador-masajeador",
+      "precio": 40000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/214/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "215",
+      "nombre": "Vibrador-masajeador",
+      "precio": 40000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/215/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "216",
+      "nombre": "Vibrador masajeador",
+      "precio": 40000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/216/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "217",
+      "nombre": "Vibrador masajeador",
+      "precio": 40000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/217/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "218",
+      "nombre": "Gato vibrador",
+      "precio": 60000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/218/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "219",
+      "nombre": "Bala silicona con control",
+      "precio": 110000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/219/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "220",
+      "nombre": "Bala de silicona",
+      "precio": 80000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/220/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "221",
+      "nombre": "Huevo vibradoe pilas",
+      "precio": 16000,
+      "categoria": "balas-huevos",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "222",
+      "nombre": "Bala con funda",
+      "precio": 26000,
+      "categoria": "balas-huevos",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "223",
+      "nombre": "Bala vibradora pilas",
+      "precio": 26000,
+      "categoria": "balas-huevos",
+      "imagenes": [],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "224",
+      "nombre": "Arnés cadenas",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/224/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "225",
+      "nombre": "Arnés",
+      "precio": 70000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/225/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "226",
+      "nombre": "Arnés fetish",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/226/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "227",
+      "nombre": "Arnés cadenas fucsia",
+      "precio": 58000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/227/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "228",
+      "nombre": "Cinturón cadera",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/228/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "229",
+      "nombre": "Aenés cinturón",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/229/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "230",
+      "nombre": "Arnés cinturón liguero",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/230/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "231",
+      "nombre": "Arnés senos",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/231/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "232",
+      "nombre": "Arnés mordaza",
+      "precio": 48000,
+      "categoria": "balas-huevos",
+      "imagenes": [
+        "public/img/232/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "233",
+      "nombre": "Kit sado",
+      "precio": 70000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/233/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "234",
+      "nombre": "Esposas peluche",
+      "precio": 11000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/234/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "235",
+      "nombre": "Esposas",
+      "precio": 5800,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/235/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "236",
+      "nombre": "Latigo cuero",
+      "precio": 24000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/236/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "237",
+      "nombre": "kit sado fusta",
+      "precio": 96000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/237/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "238",
+      "nombre": "Kit sado Pluma",
+      "precio": 96000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/238/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "239",
+      "nombre": "tapa ojos satín",
+      "precio": 11000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/239/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "240",
+      "nombre": "cuerda 5 Metros",
+      "precio": 16000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/240/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "241",
+      "nombre": "Cuerda 10 metros",
+      "precio": 32000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/241/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "242",
+      "nombre": "Kit sado latigo mini",
+      "precio": 48000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/242/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "243",
+      "nombre": "Kit sado mini dados",
+      "precio": 19800,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/243/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "244",
+      "nombre": "Kit sado Pluma",
+      "precio": 36000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/244/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "245",
+      "nombre": "Latigo sado",
+      "precio": 50000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/245/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "246",
+      "nombre": "latigo sado",
+      "precio": 40000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/246/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "247",
+      "nombre": "Fusta",
+      "precio": 36000,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/247/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "248",
+      "nombre": "Tanga butterfly",
+      "precio": 19800,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/248/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "249",
+      "nombre": "Tanga corazón",
+      "precio": 19800,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/249/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    },
+    {
+      "codigo": "250",
+      "nombre": "Tanga erotica",
+      "precio": 13800,
+      "categoria": "arnes-sado",
+      "imagenes": [
+        "public/img/250/1.webp"
+      ],
+      "descripcion": "",
+      "activo": true
+    }
+  ]
+}

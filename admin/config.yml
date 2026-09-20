@@ -1,0 +1,62 @@
+# Decap CMS — panel de administración de Picardías
+# EDITA las 3 líneas marcadas con <-- antes de usar.
+backend:
+  name: github
+  repo: USUARIO/REPO                          # <-- tu usuario/repositorio de GitHub
+  branch: main
+  base_url: https://TU-WORKER.tu-subdominio.workers.dev   # <-- broker OAuth (ver README)
+  auth_endpoint: auth
+
+publish_mode: simple
+locale: es
+media_folder: "public/img/uploads"     # dónde se guardan las fotos subidas
+public_folder: "public/img/uploads"    # ruta con la que se referencian (relativa)
+
+collections:
+  - name: productos
+    label: Productos
+    label_singular: Producto
+    folder: content/productos
+    identifier_field: codigo
+    slug: "{{fields.codigo}}"
+    create: true
+    summary: "{{fields.codigo}} — {{fields.nombre}}"
+    sortable_fields: [codigo, nombre, precio, categoria]
+    fields:
+      - { label: "Código", name: codigo, widget: string, hint: "Identificador del producto (ej. 01)" }
+      - { label: "Nombre", name: nombre, widget: string }
+      - { label: "Precio (COP)", name: precio, widget: number, value_type: int, min: 0, required: false }
+      - label: "Categoría"
+        name: categoria
+        widget: select
+        options:
+          - { label: "Lubricantes Calientes", value: "lubricantes-calientes" }
+          - { label: "Lubricantes Electrizantes", value: "electrizantes" }
+          - { label: "Frío - Caliente", value: "frio-caliente" }
+          - { label: "Lubricantes Multiorgasmo", value: "multiorgasmo" }
+          - { label: "Anales Retardantes", value: "anales-retardantes" }
+          - { label: "Estrechantes", value: "estrechantes" }
+          - { label: "Potenciadores", value: "potenciadores" }
+          - { label: "Para Masajes", value: "para-masajes" }
+          - { label: "Kits", value: "kits" }
+          - { label: "Feromonas", value: "feromonas" }
+          - { label: "Juegos", value: "juegos" }
+          - { label: "Anillos - Fundas", value: "anillos-fundas" }
+          - { label: "Balas - Huevos", value: "balas-huevos" }
+          - { label: "Arnés - Sado", value: "arnes-sado" }
+          - { label: "Lencería", value: "lenceria" }
+          - { label: "Plug Anal", value: "plug-anal" }
+          - { label: "Masturbadores", value: "masturbadores" }
+          - { label: "Masajeadores", value: "masajeadores" }
+          - { label: "Vibradores con Pila", value: "vibradores-con-pila" }
+          - { label: "Vibradores Clítoris", value: "vibradores-clitoris" }
+          - { label: "Vibradores con App", value: "vibradores-con-app" }
+          - { label: "Succionadores", value: "succionadores" }
+          - { label: "Otros", value: "otros" }
+      - label: "Fotos"
+        name: imagenes
+        widget: list
+        required: false
+        field: { label: "Imagen", name: image, widget: image }
+      - { label: "Descripción", name: descripcion, widget: text, required: false }
+      - { label: "Activo (visible en la tienda)", name: activo, widget: boolean, default: true }

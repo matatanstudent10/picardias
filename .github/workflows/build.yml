@@ -1,0 +1,35 @@
+name: Compilar catálogo
+
+# Recompila public/products.json cuando cambian los productos (los edita Decap/CMS)
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/productos/**"
+      - "scripts/compilar.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compilar products.json
+        run: python3 scripts/compilar.py
+      - name: Commit si hay cambios
+        run: |
+          git config user.name "picardias-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if ! git diff --quiet -- public/products.json; then
+            git add public/products.json
+            git commit -m "chore: recompilar products.json"
+            git push
+          else
+            echo "Sin cambios en products.json"
+          fi

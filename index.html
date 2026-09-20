@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Picardías — Catálogo</title>
+<meta name="description" content="Catálogo Picardías: lubricantes, juguetes, lencería y más. Pide fácil por WhatsApp." />
+<meta name="robots" content="noindex" />
+<!-- Open Graph -->
+<meta property="og:title" content="Picardías — Catálogo" />
+<meta property="og:description" content="Explora el catálogo y arma tu pedido por WhatsApp." />
+<meta property="og:image" content="assets/brand/og.jpg" />
+<meta property="og:type" content="website" />
+<link rel="icon" href="assets/brand/favicon.png" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+
+<!-- Verificación de edad -->
+<div id="ageGate" class="age-gate" hidden>
+  <div class="age-card">
+    <img src="assets/brand/logo.png" alt="Picardías" class="age-logo" />
+    <h1>Contenido para mayores de 18 años</h1>
+    <p>Este catálogo contiene productos para adultos. Al continuar confirmas que eres mayor de edad.</p>
+    <div class="age-actions">
+      <button id="ageYes" class="btn btn-primary">Soy mayor de 18</button>
+      <a href="https://www.google.com" class="btn btn-ghost">Salir</a>
+    </div>
+  </div>
+</div>
+
+<!-- Encabezado -->
+<header class="topbar">
+  <a href="#" class="brand"><img src="assets/brand/logo_menu.png" alt="Picardías" /></a>
+  <div class="search-wrap">
+    <input id="search" type="search" placeholder="Buscar por nombre o código…" autocomplete="off" />
+  </div>
+  <button id="cartBtn" class="cart-btn" aria-label="Ver carrito">
+    <span class="cart-ico">🛍️</span><span id="cartCount" class="cart-count">0</span>
+  </button>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="hero-inner">
+    <h1 class="hero-title">Picardías</h1>
+    <p class="hero-sub">Tu catálogo, ahora rápido. Explora, elige y pide por WhatsApp.</p>
+    <a href="#catalogo" class="btn btn-primary">Ver catálogo</a>
+  </div>
+</section>
+
+<!-- Categorías -->
+<nav id="cats" class="cats" aria-label="Categorías"></nav>
+
+<!-- Catálogo -->
+<main id="catalogo" class="wrap">
+  <p id="resultInfo" class="result-info"></p>
+  <div id="grid" class="grid"></div>
+  <p id="empty" class="empty" hidden>No hay productos que coincidan.</p>
+</main>
+
+<!-- Modal de producto -->
+<div id="modal" class="modal" hidden>
+  <div class="modal-card">
+    <button id="modalClose" class="modal-close" aria-label="Cerrar">✕</button>
+    <div class="modal-img"><img id="mImg" alt="" /></div>
+    <div class="modal-body">
+      <span id="mCode" class="code"></span>
+      <h2 id="mName"></h2>
+      <p id="mPrice" class="price"></p>
+      <p id="mDesc" class="desc"></p>
+      <div class="qty">
+        <button class="qminus" aria-label="menos">−</button>
+        <span id="mQty">1</span>
+        <button class="qplus" aria-label="más">+</button>
+      </div>
+      <button id="mAdd" class="btn btn-primary btn-block">Agregar al pedido</button>
+    </div>
+  </div>
+</div>
+
+<!-- Carrito -->
+<aside id="cart" class="cart" hidden aria-label="Pedido">
+  <div class="cart-head">
+    <h2>Tu pedido</h2>
+    <button id="cartClose" class="modal-close" aria-label="Cerrar">✕</button>
+  </div>
+  <div id="cartItems" class="cart-items"></div>
+  <div class="cart-foot">
+    <div class="cart-total"><span>Total</span><strong id="cartTotal">$0</strong></div>
+    <button id="checkout" class="btn btn-wa btn-block">Finalizar por WhatsApp</button>
+    <p class="cart-note">El pedido se confirma por WhatsApp. Sin pagos en línea.</p>
+  </div>
+</aside>
+<div id="overlay" class="overlay" hidden></div>
+
+<!-- WhatsApp flotante -->
+<a id="waFloat" class="wa-float" href="#" target="_blank" rel="noopener" aria-label="WhatsApp">💬</a>
+
+<footer class="footer">
+  <img src="assets/brand/logo.png" alt="Picardías" class="foot-logo" />
+  <p>Solo para mayores de 18 años.</p>
+  <p class="foot-links">
+    <a id="waLink" href="#" target="_blank" rel="noopener">WhatsApp</a> ·
+    <a href="#catalogo">Catálogo</a>
+  </p>
+  <p class="foot-copy">© Picardías</p>
+</footer>
+
+<script src="assets/app.js" defer></script>
+</body>
+</html>
