@@ -989,7 +989,7 @@
       "codigo": "72",
       "nombre": "Lubricante multiorgasmo frio",
       "precio": 30000,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/72/1.webp"
       ],
@@ -1001,7 +1001,7 @@
       "codigo": "73",
       "nombre": "Lubricante multiorgasmo caliente",
       "precio": 30000,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/73/1.webp"
       ],
@@ -1013,7 +1013,7 @@
       "codigo": "74",
       "nombre": "lubricante multiorgasmo efectto premium buzzy",
       "precio": 39000,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/74/1.webp"
       ],
@@ -1025,7 +1025,7 @@
       "codigo": "75",
       "nombre": "Lubricante multiorgasmo frio",
       "precio": 19800,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/75/1.webp"
       ],
@@ -1049,7 +1049,7 @@
       "codigo": "76",
       "nombre": "Lubricante multiorgasmo caliente gel",
       "precio": 19800,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/76/1.webp"
       ],
@@ -1061,7 +1061,7 @@
       "codigo": "77",
       "nombre": "Sachet lubricante multiorgasmo caliente",
       "precio": 5600,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/77/1.webp"
       ],
@@ -1085,7 +1085,7 @@
       "codigo": "78",
       "nombre": "Sachet lubricante multiorgasmo frio",
       "precio": 5600,
-      "categoria": "frio-caliente",
+      "categoria": "multiorgasmo",
       "imagenes": [
         "public/img/78/1.webp"
       ],
@@ -1193,7 +1193,7 @@
       "codigo": "86",
       "nombre": "Lubricante anal en gel nutidé",
       "precio": 25600,
-      "categoria": "multiorgasmo",
+      "categoria": "anales-retardantes",
       "imagenes": [
         "public/img/86/1.webp"
       ],
@@ -1205,7 +1205,7 @@
       "codigo": "87",
       "nombre": "Sachet lubricante anal en gel intensify",
       "precio": 5600,
-      "categoria": "multiorgasmo",
+      "categoria": "anales-retardantes",
       "imagenes": [
         "public/img/87/1.webp"
       ],
@@ -1269,7 +1269,7 @@
       "codigo": "91",
       "nombre": "Lubricante anal en silicona",
       "precio": 30800,
-      "categoria": "multiorgasmo",
+      "categoria": "anales-retardantes",
       "imagenes": [
         "public/img/91/1.webp"
       ],
@@ -1449,7 +1449,7 @@
       "codigo": "106",
       "nombre": "Lubricante estrechante",
       "precio": 52200,
-      "categoria": "anales-retardantes",
+      "categoria": "estrechantes",
       "imagenes": [
         "public/img/106/1.webp"
       ],
@@ -1461,7 +1461,7 @@
       "codigo": "107",
       "nombre": "Estrechante mini virgin en crema 3GR",
       "precio": 12200,
-      "categoria": "anales-retardantes",
+      "categoria": "estrechantes",
       "imagenes": [
         "public/img/107/1.webp"
       ],
@@ -1509,7 +1509,7 @@
       "codigo": "111",
       "nombre": "Pastilla potenciadora blix mujer",
       "precio": 35000,
-      "categoria": "estrechantes",
+      "categoria": "potenciadores",
       "imagenes": [
         "public/img/111/1.webp"
       ],
@@ -1521,7 +1521,7 @@
       "codigo": "112",
       "nombre": "Pastilla potenciadora blix hombre",
       "precio": 35000,
-      "categoria": "estrechantes",
+      "categoria": "potenciadores",
       "imagenes": [
         "public/img/112/1.webp"
       ],
@@ -1666,7 +1666,7 @@
       "codigo": "122",
       "nombre": "Aceite para masajes 30 ML sabores surtidos",
       "precio": 20400,
-      "categoria": "potenciadores",
+      "categoria": "para-masajes",
       "imagenes": [
         "public/img/122/1.webp"
       ],
@@ -1690,7 +1690,7 @@
       "codigo": "123",
       "nombre": "Aceite para masajes 40 ML sabores surtidos",
       "precio": 25800,
-      "categoria": "potenciadores",
+      "categoria": "para-masajes",
       "imagenes": [
         "public/img/123/1.webp"
       ],
@@ -1714,7 +1714,7 @@
       "codigo": "125",
       "nombre": "kit sensual # 1",
       "precio": 33800,
-      "categoria": "para-masajes",
+      "categoria": "kits",
       "imagenes": [
         "public/img/125/1.webp"
       ],
@@ -1750,7 +1750,7 @@
       "codigo": "128",
       "nombre": "Extracto feromonas sex life hombre",
       "precio": 19800,
-      "categoria": "kits",
+      "categoria": "feromonas",
       "imagenes": [
         "public/img/128/1.webp"
       ],
@@ -2029,7 +2029,7 @@
       "codigo": "147",
       "nombre": "Dados X2 luminosos",
       "precio": 7800,
-      "categoria": "feromonas",
+      "categoria": "juegos",
       "imagenes": [
         "public/img/147/1.webp"
       ],
@@ -2041,7 +2041,7 @@
       "codigo": "148",
       "nombre": "Dados X2",
       "precio": 9800,
-      "categoria": "feromonas",
+      "categoria": "juegos",
       "imagenes": [
         "public/img/148/1.webp"
       ],
@@ -2113,7 +2113,7 @@
       "codigo": "153",
       "nombre": "Espuma para bañera",
       "precio": 7000,
-      "categoria": "juegos",
+      "categoria": "otros",
       "imagenes": [
         "public/img/153/1.webp"
       ],
@@ -2125,7 +2125,7 @@
       "codigo": "154",
       "nombre": "Lubricante trio placer",
       "precio": 52800,
-      "categoria": "juegos",
+      "categoria": "otros",
       "imagenes": [
         "public/img/154/1.webp"
       ],
@@ -2401,7 +2401,7 @@
       "codigo": "178",
       "nombre": "Anillo Vibrador",
       "precio": 5600,
-      "categoria": "otros",
+      "categoria": "anillos-fundas",
       "imagenes": [
         "public/img/178/1.webp"
       ],
@@ -2413,7 +2413,7 @@
       "codigo": "179",
       "nombre": "Anillo vibrador",
       "precio": 8000,
-      "categoria": "otros",
+      "categoria": "anillos-fundas",
       "imagenes": [
         "public/img/179/1.webp"
       ],
@@ -2509,7 +2509,7 @@
       "codigo": "187",
       "nombre": "Huevo masturbador",
       "precio": 34000,
-      "categoria": "anillos-fundas",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/187/1.webp"
       ],
@@ -2521,7 +2521,7 @@
       "codigo": "188",
       "nombre": "Huevo masturbador",
       "precio": 26000,
-      "categoria": "anillos-fundas",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/188/1.webp"
       ],
@@ -2701,7 +2701,7 @@
       "codigo": "203",
       "nombre": "Bala vibradora",
       "precio": 90000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/203/1.webp"
       ],
@@ -2713,7 +2713,7 @@
       "codigo": "204",
       "nombre": "Labial masajeador",
       "precio": 90000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/204/1.webp"
       ],
@@ -2725,7 +2725,7 @@
       "codigo": "205",
       "nombre": "Labial masajeador",
       "precio": 90000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/205/1.webp"
       ],
@@ -2737,7 +2737,7 @@
       "codigo": "206",
       "nombre": "Bala vibradora",
       "precio": 46000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/206/1.webp"
       ],
@@ -2749,7 +2749,7 @@
       "codigo": "207",
       "nombre": "Huevo concha",
       "precio": 24000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/207/1.webp"
       ],
@@ -2761,7 +2761,7 @@
       "codigo": "208",
       "nombre": "Huevo USB vibrador-subsionador",
       "precio": 17000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/208/1.webp"
       ],
@@ -2773,7 +2773,7 @@
       "codigo": "209",
       "nombre": "Huevo vibrador control",
       "precio": 56000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/209/1.webp"
       ],
@@ -2785,7 +2785,7 @@
       "codigo": "210",
       "nombre": "Huevo vibrador control",
       "precio": 76000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/210/1.webp"
       ],
@@ -2797,7 +2797,7 @@
       "codigo": "211",
       "nombre": "Huevo vibrador control",
       "precio": 108000,
-      "categoria": "masturbadores",
+      "categoria": "balas-huevos",
       "imagenes": [
         "public/img/211/1.webp"
       ],
@@ -2953,7 +2953,7 @@
       "codigo": "224",
       "nombre": "Arnés cadenas",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/224/1.webp"
       ],
@@ -2965,7 +2965,7 @@
       "codigo": "225",
       "nombre": "Arnés",
       "precio": 70000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/225/1.webp"
       ],
@@ -2977,7 +2977,7 @@
       "codigo": "226",
       "nombre": "Arnés fetish",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/226/1.webp"
       ],
@@ -2989,7 +2989,7 @@
       "codigo": "227",
       "nombre": "Arnés cadenas fucsia",
       "precio": 58000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/227/1.webp"
       ],
@@ -3001,7 +3001,7 @@
       "codigo": "228",
       "nombre": "Cinturón cadera",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/228/1.webp"
       ],
@@ -3013,7 +3013,7 @@
       "codigo": "229",
       "nombre": "Aenés cinturón",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/229/1.webp"
       ],
@@ -3025,7 +3025,7 @@
       "codigo": "230",
       "nombre": "Arnés cinturón liguero",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/230/1.webp"
       ],
@@ -3037,7 +3037,7 @@
       "codigo": "231",
       "nombre": "Arnés senos",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/231/1.webp"
       ],
@@ -3049,7 +3049,7 @@
       "codigo": "232",
       "nombre": "Arnés mordaza",
       "precio": 48000,
-      "categoria": "balas-huevos",
+      "categoria": "arnes-sado",
       "imagenes": [
         "public/img/232/1.webp"
       ],
@@ -3241,7 +3241,7 @@
       "codigo": "248",
       "nombre": "Tanga butterfly",
       "precio": 19800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/248/1.webp"
       ],
@@ -3253,7 +3253,7 @@
       "codigo": "249",
       "nombre": "Tanga corazón",
       "precio": 19800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/249/1.webp"
       ],
@@ -3265,7 +3265,7 @@
       "codigo": "250",
       "nombre": "Tanga erotica",
       "precio": 13800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/250/1.webp"
       ],
@@ -3277,7 +3277,7 @@
       "codigo": "251",
       "nombre": "Tanga herraje",
       "precio": 19800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/251/1.webp"
       ],
@@ -3289,7 +3289,7 @@
       "codigo": "252",
       "nombre": "Tanga luminosa",
       "precio": 23800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/252/1.webp"
       ],
@@ -3301,7 +3301,7 @@
       "codigo": "253",
       "nombre": "Conjunto 4 apliques",
       "precio": 75800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/253/1.webp"
       ],
@@ -3313,7 +3313,7 @@
       "codigo": "254",
       "nombre": "conjunto encantadora",
       "precio": 99800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/254/1.webp"
       ],
@@ -3325,7 +3325,7 @@
       "codigo": "255",
       "nombre": "Traje sensual lolita",
       "precio": 83800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/255/1.webp"
       ],
@@ -3337,7 +3337,7 @@
       "codigo": "256",
       "nombre": "Enfermera Descarada",
       "precio": 99800,
-      "categoria": "arnes-sado",
+      "categoria": "lenceria",
       "imagenes": [
         "public/img/256/1.webp"
       ],
@@ -3769,7 +3769,7 @@
       "codigo": "292",
       "nombre": "Kit coneja",
       "precio": 86000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/292/1.webp"
       ],
@@ -3781,7 +3781,7 @@
       "codigo": "293",
       "nombre": "plug plateado redondo talle S",
       "precio": 20000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/293/1.webp"
       ],
@@ -3793,7 +3793,7 @@
       "codigo": "294",
       "nombre": "Plug plateado talla M",
       "precio": 26000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/294/1.webp"
       ],
@@ -3805,7 +3805,7 @@
       "codigo": "295",
       "nombre": "Plug Silicona talla M",
       "precio": 22000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/295/1.webp"
       ],
@@ -3817,7 +3817,7 @@
       "codigo": "296",
       "nombre": "Plug silicona talla S",
       "precio": 16000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/296/1.webp"
       ],
@@ -3829,7 +3829,7 @@
       "codigo": "297",
       "nombre": "Plug silicona talla S",
       "precio": 22000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/297/1.webp"
       ],
@@ -3841,7 +3841,7 @@
       "codigo": "298",
       "nombre": "Plug plateado corazón talla S",
       "precio": 22000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/298/1.webp"
       ],
@@ -3853,7 +3853,7 @@
       "codigo": "299",
       "nombre": "Plug plateado corazón talla M",
       "precio": 26000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/299/1.webp"
       ],
@@ -3865,7 +3865,7 @@
       "codigo": "300",
       "nombre": "Plug plateado corazón talla L",
       "precio": 34000,
-      "categoria": "lenceria",
+      "categoria": "plug-anal",
       "imagenes": [
         "public/img/300/1.webp"
       ],
@@ -4116,7 +4116,7 @@
       "codigo": "319",
       "nombre": "Masturbador realista",
       "precio": 52000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/319/1.webp"
       ],
@@ -4128,7 +4128,7 @@
       "codigo": "320",
       "nombre": "Masturbador",
       "precio": 58000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/320/1.webp"
       ],
@@ -4140,7 +4140,7 @@
       "codigo": "321",
       "nombre": "Masturbador",
       "precio": 48000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/321/1.webp"
       ],
@@ -4152,7 +4152,7 @@
       "codigo": "322",
       "nombre": "Arnes con masturbador",
       "precio": 76000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/322/1.webp"
       ],
@@ -4164,7 +4164,7 @@
       "codigo": "323",
       "nombre": "Masturbador realista vertebrado",
       "precio": 58000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/323/1.webp"
       ],
@@ -4176,7 +4176,7 @@
       "codigo": "324",
       "nombre": "Masturbador realista vertebrado",
       "precio": 70000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/324/1.webp"
       ],
@@ -4188,7 +4188,7 @@
       "codigo": "325",
       "nombre": "Masturbador curvo",
       "precio": 56000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/325/1.webp"
       ],
@@ -4200,7 +4200,7 @@
       "codigo": "326",
       "nombre": "Masturbador realista 18 CM",
       "precio": 196000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/326/1.webp"
       ],
@@ -4212,7 +4212,7 @@
       "codigo": "327",
       "nombre": "masturbador realista",
       "precio": 44000,
-      "categoria": "plug-anal",
+      "categoria": "masturbadores",
       "imagenes": [
         "public/img/327/1.webp"
       ],
@@ -4260,7 +4260,7 @@
       "codigo": "331",
       "nombre": "Masajeador mediano pilas",
       "precio": 70000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/331/1.webp"
       ],
@@ -4284,7 +4284,7 @@
       "codigo": "332",
       "nombre": "Hitachi masajeador",
       "precio": 56000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/332/1.webp"
       ],
@@ -4296,7 +4296,7 @@
       "codigo": "333",
       "nombre": "Hitachi masajeador",
       "precio": 90000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/333/1.webp"
       ],
@@ -4320,7 +4320,7 @@
       "codigo": "334",
       "nombre": "Masajeador 20.8 largo",
       "precio": 156000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/334/1.webp"
       ],
@@ -4332,7 +4332,7 @@
       "codigo": "335",
       "nombre": "Doble estimulación",
       "precio": 99900,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/335/1.webp"
       ],
@@ -4344,7 +4344,7 @@
       "codigo": "336",
       "nombre": "Masajeador",
       "precio": 260000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/336/1.webp"
       ],
@@ -4356,7 +4356,7 @@
       "codigo": "337",
       "nombre": "Masajeador",
       "precio": 120000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/337/1.webp"
       ],
@@ -4368,7 +4368,7 @@
       "codigo": "338",
       "nombre": "Masajeador con calor",
       "precio": 150000,
-      "categoria": "masturbadores",
+      "categoria": "masajeadores",
       "imagenes": [
         "public/img/338/1.webp"
       ],
@@ -4380,7 +4380,7 @@
       "codigo": "339",
       "nombre": "Vibrador con pilas",
       "precio": 44000,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/339/1.webp"
       ],
@@ -4392,7 +4392,7 @@
       "codigo": "340",
       "nombre": "Viobrador doble estimulación",
       "precio": 60000,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/340/1.webp"
       ],
@@ -4404,7 +4404,7 @@
       "codigo": "341",
       "nombre": "Vibrador funda con pilas",
       "precio": 15800,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/341/1.webp"
       ],
@@ -4416,7 +4416,7 @@
       "codigo": "342",
       "nombre": "Vibrador con pilas",
       "precio": 32000,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/342/1.webp"
       ],
@@ -4428,7 +4428,7 @@
       "codigo": "343",
       "nombre": "Vibrador con estimulación de clitoris",
       "precio": 60000,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/343/1.webp"
       ],
@@ -4440,7 +4440,7 @@
       "codigo": "344",
       "nombre": "Vibrador doble estimulación",
       "precio": 66000,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/344/1.webp"
       ],
@@ -4465,7 +4465,7 @@
       "codigo": "345",
       "nombre": "Vibrador funda con pilas",
       "precio": 29800,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/345/1.webp"
       ],
@@ -4477,7 +4477,7 @@
       "codigo": "346",
       "nombre": "Vibrador funda con pilas",
       "precio": 29800,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/346/1.webp"
       ],
@@ -4489,7 +4489,7 @@
       "codigo": "347",
       "nombre": "Vibrador doble estimulación",
       "precio": 60000,
-      "categoria": "masajeadores",
+      "categoria": "vibradores-con-pila",
       "imagenes": [
         "public/img/347/1.webp"
       ],
@@ -4717,7 +4717,7 @@
       "codigo": "366",
       "nombre": "Vibrador recargable",
       "precio": 110000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/366/1.webp"
       ],
@@ -4729,7 +4729,7 @@
       "codigo": "367",
       "nombre": "Vibrador recargable",
       "precio": 80000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/367/1.webp"
       ],
@@ -4741,7 +4741,7 @@
       "codigo": "368",
       "nombre": "Panty vib",
       "precio": 90000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/368/1.webp"
       ],
@@ -4753,7 +4753,7 @@
       "codigo": "369",
       "nombre": "Vibrador",
       "precio": 110000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/369/1.webp"
       ],
@@ -4765,7 +4765,7 @@
       "codigo": "370",
       "nombre": "Brocha",
       "precio": 90000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/370/1.webp"
       ],
@@ -4777,7 +4777,7 @@
       "codigo": "371",
       "nombre": "Brocha vibradora",
       "precio": 136000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/371/1.webp"
       ],
@@ -4789,7 +4789,7 @@
       "codigo": "372",
       "nombre": "Vibrador doble",
       "precio": 220000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/372/1.webp"
       ],
@@ -4801,7 +4801,7 @@
       "codigo": "373",
       "nombre": "Vibrador Varita",
       "precio": 80000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/373/1.webp"
       ],
@@ -4813,7 +4813,7 @@
       "codigo": "374",
       "nombre": "Vibrador doble estimulación",
       "precio": 100000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/374/1.webp"
       ],
@@ -4981,7 +4981,7 @@
       "codigo": "386",
       "nombre": "Vibrador recargable APP",
       "precio": 140000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores-con-app",
       "imagenes": [
         "public/img/386/1.webp"
       ],
@@ -4993,7 +4993,7 @@
       "codigo": "387",
       "nombre": "Vibrador recargable con APP",
       "precio": 110000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores-con-app",
       "imagenes": [
         "public/img/387/1.webp"
       ],
@@ -5005,7 +5005,7 @@
       "codigo": "388",
       "nombre": "Vibrador recragable con APP",
       "precio": 110000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores-con-app",
       "imagenes": [
         "public/img/388/1.webp"
       ],
@@ -5017,7 +5017,7 @@
       "codigo": "389",
       "nombre": "Masajeador Domi 2 con APP global by lovense",
       "precio": 1112000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores-con-app",
       "imagenes": [
         "public/img/389/1.webp"
       ],
@@ -5029,7 +5029,7 @@
       "codigo": "390",
       "nombre": "Vibrador Lush 2 con APP by lovense",
       "precio": 1112000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores-con-app",
       "imagenes": [
         "public/img/390/1.webp"
       ],
@@ -5041,7 +5041,7 @@
       "codigo": "391",
       "nombre": "Vibrador Lush 4 controlado por APP global By Lovense",
       "precio": 1190000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores-con-app",
       "imagenes": [
         "public/img/391/1.webp"
       ],
@@ -5053,7 +5053,7 @@
       "codigo": "392",
       "nombre": "Succionador",
       "precio": 150000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/392/1.webp"
       ],
@@ -5065,7 +5065,7 @@
       "codigo": "393",
       "nombre": "Succionador",
       "precio": 150000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/393/1.webp"
       ],
@@ -5077,7 +5077,7 @@
       "codigo": "394",
       "nombre": "Vibrador con succionador",
       "precio": 118000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/394/1.webp"
       ],
@@ -5089,7 +5089,7 @@
       "codigo": "395",
       "nombre": "Succionador",
       "precio": 150000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/395/1.webp"
       ],
@@ -5101,7 +5101,7 @@
       "codigo": "396",
       "nombre": "Succionador",
       "precio": 100000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/396/1.webp"
       ],
@@ -5113,7 +5113,7 @@
       "codigo": "397",
       "nombre": "Vibrador con succionador",
       "precio": 170000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/397/1.webp"
       ],
@@ -5125,7 +5125,7 @@
       "codigo": "398",
       "nombre": "Vibrador succionador",
       "precio": 100000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/398/1.webp"
       ],
@@ -5137,7 +5137,7 @@
       "codigo": "399",
       "nombre": "Vibracion con estimulacion de clitoris- succion",
       "precio": 140000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/399/1.webp"
       ],
@@ -5149,7 +5149,7 @@
       "codigo": "400",
       "nombre": "Succionador con lengua",
       "precio": 320000,
-      "categoria": "vibradores-con-app",
+      "categoria": "succionadores",
       "imagenes": [
         "public/img/400/1.webp"
       ],
