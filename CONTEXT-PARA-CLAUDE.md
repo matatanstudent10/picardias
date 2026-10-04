@@ -68,16 +68,22 @@ imagenes:
 descripcion: ""
 activo: true                     # false => no aparece en la tienda
 bajo_pedido: true                # opcional; muestra badge y aviso "no entrega al día siguiente" (lencería)
+destacado: true                  # opcional (default false); el producto aparece en la portada
 ---
 ```
+Las rutas de `imagenes` en los `.md` van **SIN query** (`?v=`); así las guarda Decap y así deben quedar.
 **`public/products.json`** (lo genera compilar.py):
 ```json
 {
   "categorias": [{ "slug": "lubricantes-calientes", "nombre": "Lubricantes Calientes" }, ...],
   "productos":  [{ "codigo":"01","nombre":"...","precio":18400,"categoria":"...",
-                   "imagenes":["public/img/01/1.webp"],"descripcion":"","activo":true,"bajo_pedido":false }, ...]
+                   "imagenes":["public/img/01/1.webp?v=3f2a9c1b"],"descripcion":"","activo":true,
+                   "bajo_pedido":false,"destacado":false }, ...]
 }
 ```
+**Cache-busting:** compilar.py añade a cada imagen que existe en disco `?v=` + los 8 primeros caracteres
+del md5 del archivo. Si cambias una foto conservando el nombre, cambia el `?v=` y los celulares la
+vuelven a descargar. Rutas cuyo archivo no existe se dejan tal cual (sin `?v=`).
 
 ## 6. Cómo funciona cada archivo clave
 - **index.html**: estructura estática. IDs importantes que usa el JS: `#ageGate/#ageYes`, `#search`,
@@ -139,11 +145,15 @@ succionadores, otros`
 - **Cambiar el WhatsApp**: `assets/app.js`, constante `WHATSAPP` (formato internacional sin `+`).
 - **Cambiar un precio/nombre/foto**: editar el `content/productos/<codigo>.md` (o por el admin). El Action recompila.
 - **Ocultar un producto**: `activo: false` en su `.md`.
+- **Destacar un producto en la portada**: `destacado: true` en su `.md` (o el interruptor "Destacado" en el admin).
 - **Agregar un producto**: crear `content/productos/<codigo>.md` con el frontmatter de la sección 5 y subir su foto a `public/img/<codigo>/1.webp`.
 - **Recolorear la marca**: variables `--pink/--pink-2/--gold` en `styles.css :root`.
 - **Agregar/renombrar una categoría**: editarla en TRES sitios en espejo — `CAT_ORDER` en `scripts/compilar.py`,
   la lista `options` en `admin/config.yml`, y el campo `categoria` de los `.md` afectados.
-- **Agrupar las 23 categorías** en 4-5 grupos (idea pendiente): es cambio de `renderCats()` + CSS, sin tocar datos.
+- **Grupos de la barra de categorías**: constante `GRUPOS` arriba en `assets/app.js` (5 grupos → slugs). Una categoría nueva
+  sin grupo cae sola en el último ("Juegos y más"); para ubicarla bien, agrégala al grupo que corresponda.
+- **Íconos**: sprite SVG de Lucide (licencia ISC) al inicio de `index.html`; se usan con `<svg class="i"><use href="#i-nombre"/></svg>`.
+  Para uno nuevo, copia el `<path>` desde lucide.dev a un `<symbol id="i-…">`. No usar emojis en la interfaz.
 - Tras cualquier cambio de datos local, para ver el sitio: `python -m http.server 8099` y abrir `http://127.0.0.1:8099`.
   Si editaste `.md` en local, corre `python scripts/compilar.py` para regenerar products.json antes de mirar.
 
