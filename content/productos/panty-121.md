@@ -5,7 +5,7 @@ precio: 16000
 categoria: lenceria
 imagenes:
   - public/img/panty-121/1.webp
-descripcion: ""
+descripcion: "Talla única. Vino, azul, blanco"
 activo: true
 bajo_pedido: true
 ---

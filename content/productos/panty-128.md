@@ -5,7 +5,7 @@ precio: 14700
 categoria: lenceria
 imagenes:
   - public/img/panty-128/1.webp
-descripcion: ""
+descripcion: "Talla única. Varios tonos"
 activo: true
 bajo_pedido: true
 ---

@@ -5,8 +5,7 @@ precio: 14200
 categoria: lenceria
 imagenes:
   - public/img/panty-907/1.webp
-  - public/img/panty-907/2.webp
-descripcion: ""
+descripcion: "Talla única. Varios tonos"
 activo: true
 bajo_pedido: true
 ---

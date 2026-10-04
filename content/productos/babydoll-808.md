@@ -6,7 +6,10 @@ categoria: lenceria
 imagenes:
   - public/img/babydoll-808/1.webp
   - public/img/babydoll-808/2.webp
-descripcion: "Tallas: 32 - 34 - 36 - 38"
+  - public/img/babydoll-808/3.webp
+  - public/img/babydoll-808/4.webp
+  - public/img/babydoll-808/5.webp
+descripcion: "Tallas: 32-34-36-38"
 activo: true
 bajo_pedido: true
 ---

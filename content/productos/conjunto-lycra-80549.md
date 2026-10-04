@@ -1,6 +1,6 @@
 ---
 codigo: "conjunto-lycra-80549"
-nombre: "Conjunto Lycra 80549"
+nombre: "Conjunto lycra 80549"
 precio: 70000
 categoria: lenceria
 imagenes:
@@ -8,7 +8,8 @@ imagenes:
   - public/img/conjunto-lycra-80549/2.webp
   - public/img/conjunto-lycra-80549/3.webp
   - public/img/conjunto-lycra-80549/4.webp
-descripcion: ""
+  - public/img/conjunto-lycra-80549/5.webp
+descripcion: "Tallas: S-M-L-XL"
 activo: true
 bajo_pedido: true
 ---

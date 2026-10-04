@@ -6,7 +6,7 @@ categoria: lenceria
 imagenes:
   - public/img/panty-426/1.webp
   - public/img/panty-426/2.webp
-descripcion: ""
+descripcion: "Talla única. Varios tonos"
 activo: true
 bajo_pedido: true
 ---

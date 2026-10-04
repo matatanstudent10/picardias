@@ -8,7 +8,8 @@ imagenes:
   - public/img/babydoll-4117/2.webp
   - public/img/babydoll-4117/3.webp
   - public/img/babydoll-4117/4.webp
-descripcion: ""
+  - public/img/babydoll-4117/5.webp
+descripcion: "Tallas: 32-34-36"
 activo: true
 bajo_pedido: true
 ---

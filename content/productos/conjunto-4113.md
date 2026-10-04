@@ -5,6 +5,7 @@ precio: 50000
 categoria: lenceria
 imagenes:
   - public/img/conjunto-4113/1.webp
+  - public/img/conjunto-4113/2.webp
 descripcion: "Tallas: 32-34-36"
 activo: true
 bajo_pedido: true

@@ -1,6 +1,6 @@
 ---
 codigo: "conjunto-8668"
-nombre: "Conjunto 8668"
+nombre: "Conjunto 8668 sin ligueros"
 precio: 87500
 categoria: lenceria
 imagenes:
@@ -8,6 +8,7 @@ imagenes:
   - public/img/conjunto-8668/2.webp
   - public/img/conjunto-8668/3.webp
   - public/img/conjunto-8668/4.webp
+  - public/img/conjunto-8668/5.webp
 descripcion: "Tallas: 32-34-36-38"
 activo: true
 bajo_pedido: true

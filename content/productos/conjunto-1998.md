@@ -9,9 +9,7 @@ imagenes:
   - public/img/conjunto-1998/3.webp
   - public/img/conjunto-1998/4.webp
   - public/img/conjunto-1998/5.webp
-  - public/img/conjunto-1998/6.webp
-  - public/img/conjunto-1998/7.webp
-descripcion: ""
+descripcion: "Tallas: 32-34-36-38"
 activo: true
 bajo_pedido: true
 ---

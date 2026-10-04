@@ -8,7 +8,8 @@ imagenes:
   - public/img/conjunto-80555/2.webp
   - public/img/conjunto-80555/3.webp
   - public/img/conjunto-80555/4.webp
-descripcion: ""
+  - public/img/conjunto-80555/5.webp
+descripcion: "Tallas: S-M-L-XL"
 activo: true
 bajo_pedido: true
 ---

@@ -5,7 +5,7 @@ precio: 27900
 categoria: lenceria
 imagenes:
   - public/img/panty-427/1.webp
-descripcion: ""
+descripcion: "Talla única. Varios tonos"
 activo: true
 bajo_pedido: true
 ---

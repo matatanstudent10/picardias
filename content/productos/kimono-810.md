@@ -6,7 +6,8 @@ categoria: lenceria
 imagenes:
   - public/img/kimono-810/1.webp
   - public/img/kimono-810/2.webp
-descripcion: "Tallas: 32- 34-36"
+  - public/img/kimono-810/3.webp
+descripcion: "Tallas: 32-34-36. No incluye panty ni top"
 activo: true
 bajo_pedido: true
 ---

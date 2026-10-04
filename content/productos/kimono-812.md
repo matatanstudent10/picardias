@@ -6,7 +6,7 @@ categoria: lenceria
 imagenes:
   - public/img/kimono-812/1.webp
   - public/img/kimono-812/2.webp
-descripcion: ""
+descripcion: "Tallas: M-L"
 activo: true
 bajo_pedido: true
 ---

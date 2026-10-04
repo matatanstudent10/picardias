@@ -6,6 +6,7 @@ categoria: lenceria
 imagenes:
   - public/img/corset-8556/1.webp
   - public/img/corset-8556/2.webp
+  - public/img/corset-8556/3.webp
 descripcion: "Tallas: 32-34-36"
 activo: true
 bajo_pedido: true

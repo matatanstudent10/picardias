@@ -7,7 +7,8 @@ imagenes:
   - public/img/bralette-067/1.webp
   - public/img/bralette-067/2.webp
   - public/img/bralette-067/3.webp
-descripcion: ""
+  - public/img/bralette-067/4.webp
+descripcion: "Talla única"
 activo: true
 bajo_pedido: true
 ---

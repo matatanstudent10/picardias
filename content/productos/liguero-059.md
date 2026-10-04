@@ -5,7 +5,8 @@ precio: 30000
 categoria: lenceria
 imagenes:
   - public/img/liguero-059/1.webp
-descripcion: ""
+  - public/img/liguero-059/2.webp
+descripcion: "Talla única. No incluye ligas ni panty"
 activo: true
 bajo_pedido: true
 ---

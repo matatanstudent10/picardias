@@ -9,7 +9,8 @@ imagenes:
   - public/img/medias-088/3.webp
   - public/img/medias-088/4.webp
   - public/img/medias-088/5.webp
-descripcion: ""
+  - public/img/medias-088/6.webp
+descripcion: "Tallas: S-M / L-XL"
 activo: true
 bajo_pedido: true
 ---

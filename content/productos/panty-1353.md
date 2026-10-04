@@ -5,7 +5,7 @@ precio: 14900
 categoria: lenceria
 imagenes:
   - public/img/panty-1353/1.webp
-descripcion: ""
+descripcion: "Tallas: S-M-L-XL. Varios tonos"
 activo: true
 bajo_pedido: true
 ---

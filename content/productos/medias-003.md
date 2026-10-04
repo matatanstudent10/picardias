@@ -6,7 +6,8 @@ categoria: lenceria
 imagenes:
   - public/img/medias-003/1.webp
   - public/img/medias-003/2.webp
-descripcion: ""
+  - public/img/medias-003/3.webp
+descripcion: "Talla única"
 activo: true
 bajo_pedido: true
 ---
