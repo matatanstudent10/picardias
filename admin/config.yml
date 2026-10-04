@@ -33,8 +33,10 @@ collections:
           - { label: "Lubricantes Calientes", value: "lubricantes-calientes" }
           - { label: "Lubricantes Electrizantes", value: "electrizantes" }
           - { label: "Frío - Caliente", value: "frio-caliente" }
+          - { label: "Lubricantes Neutros - Saborizados", value: "neutros-saborizados" }
           - { label: "Lubricantes Multiorgasmo", value: "multiorgasmo" }
-          - { label: "Anales Retardantes", value: "anales-retardantes" }
+          - { label: "Lubricantes Anales", value: "anales" }
+          - { label: "Retardantes", value: "retardantes" }
           - { label: "Estrechantes", value: "estrechantes" }
           - { label: "Potenciadores", value: "potenciadores" }
           - { label: "Para Masajes", value: "para-masajes" }
@@ -50,6 +52,7 @@ collections:
           - { label: "Masajeadores", value: "masajeadores" }
           - { label: "Vibradores con Pila", value: "vibradores-con-pila" }
           - { label: "Vibradores Clítoris", value: "vibradores-clitoris" }
+          - { label: "Vibradores", value: "vibradores" }
           - { label: "Vibradores con App", value: "vibradores-con-app" }
           - { label: "Succionadores", value: "succionadores" }
           - { label: "Otros", value: "otros" }

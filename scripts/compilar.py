@@ -12,13 +12,14 @@ OUT = os.path.join(PROJ, "public", "products.json")
 
 CAT_ORDER = [
     ("lubricantes-calientes", "Lubricantes Calientes"), ("electrizantes", "Lubricantes Electrizantes"),
-    ("frio-caliente", "Frío - Caliente"), ("multiorgasmo", "Lubricantes Multiorgasmo"),
-    ("anales-retardantes", "Anales Retardantes"), ("estrechantes", "Estrechantes"),
+    ("frio-caliente", "Frío - Caliente"),
+    ("neutros-saborizados", "Lubricantes Neutros - Saborizados"), ("multiorgasmo", "Lubricantes Multiorgasmo"),
+    ("anales", "Lubricantes Anales"), ("retardantes", "Retardantes"), ("estrechantes", "Estrechantes"),
     ("potenciadores", "Potenciadores"), ("para-masajes", "Para Masajes"), ("kits", "Kits"),
     ("feromonas", "Feromonas"), ("juegos", "Juegos"), ("anillos-fundas", "Anillos - Fundas"),
     ("balas-huevos", "Balas - Huevos"), ("arnes-sado", "Arnés - Sado"), ("lenceria", "Lencería"),
     ("plug-anal", "Plug Anal"), ("masturbadores", "Masturbadores"), ("masajeadores", "Masajeadores"),
-    ("vibradores-con-pila", "Vibradores con Pila"), ("vibradores-clitoris", "Vibradores Clítoris"),
+    ("vibradores-con-pila", "Vibradores con Pila"), ("vibradores-clitoris", "Vibradores Clítoris"), ("vibradores", "Vibradores"),
     ("vibradores-con-app", "Vibradores con App"), ("succionadores", "Succionadores"), ("otros", "Otros"),
 ]
 CAT_LABEL = dict(CAT_ORDER)

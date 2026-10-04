@@ -13,12 +13,20 @@
       "nombre": "Frío - Caliente"
     },
     {
+      "slug": "neutros-saborizados",
+      "nombre": "Lubricantes Neutros - Saborizados"
+    },
+    {
       "slug": "multiorgasmo",
       "nombre": "Lubricantes Multiorgasmo"
     },
     {
-      "slug": "anales-retardantes",
-      "nombre": "Anales Retardantes"
+      "slug": "anales",
+      "nombre": "Lubricantes Anales"
+    },
+    {
+      "slug": "retardantes",
+      "nombre": "Retardantes"
     },
     {
       "slug": "estrechantes",
@@ -79,6 +87,10 @@
     {
       "slug": "vibradores-clitoris",
       "nombre": "Vibradores Clítoris"
+    },
+    {
+      "slug": "vibradores",
+      "nombre": "Vibradores"
     },
     {
       "slug": "vibradores-con-app",
@@ -589,7 +601,7 @@
     },
     {
       "codigo": "41",
-      "nombre": "vibrador liquido caliente $",
+      "nombre": "vibrador liquido caliente",
       "precio": 0,
       "categoria": "electrizantes",
       "imagenes": [
@@ -601,7 +613,7 @@
     },
     {
       "codigo": "42",
-      "nombre": "Lubricante electrizante crema de whisky $",
+      "nombre": "Lubricante electrizante crema de whisky",
       "precio": 0,
       "categoria": "electrizantes",
       "imagenes": [
@@ -709,7 +721,7 @@
     },
     {
       "codigo": "51",
-      "nombre": "Lubricante frio caliente 5 sensaciones Lubricantes neutros-saborizados",
+      "nombre": "Lubricante frio caliente 5 sensaciones",
       "precio": 29800,
       "categoria": "frio-caliente",
       "imagenes": [
@@ -723,7 +735,7 @@
       "codigo": "52",
       "nombre": "Lubricante neutro 30ML",
       "precio": 18400,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/52/1.webp"
       ],
@@ -735,7 +747,7 @@
       "codigo": "53",
       "nombre": "Lubricante neutro 500 ML",
       "precio": 61000,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/53/1.webp"
       ],
@@ -747,7 +759,7 @@
       "codigo": "54",
       "nombre": "Lubricante neutro H2o",
       "precio": 24000,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/54/1.webp"
       ],
@@ -759,7 +771,7 @@
       "codigo": "55",
       "nombre": "Sachet lubricante neutro H2o",
       "precio": 5600,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/55/1.webp"
       ],
@@ -769,9 +781,9 @@
     },
     {
       "codigo": "56",
-      "nombre": "Lubricante neutro",
+      "nombre": "Lubricante neutro Gel Exótico 20 gr",
       "precio": 13800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/56/1.webp"
       ],
@@ -781,9 +793,9 @@
     },
     {
       "codigo": "57",
-      "nombre": "Lubricante neutro",
+      "nombre": "Lubricante neutro Gel Exótico 37 gr",
       "precio": 17400,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/57/1.webp"
       ],
@@ -795,7 +807,7 @@
       "codigo": "58",
       "nombre": "Sachet lubricante neutro",
       "precio": 2500,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/58/1.webp"
       ],
@@ -807,7 +819,7 @@
       "codigo": "59",
       "nombre": "Lubricante neutro silicona",
       "precio": 29000,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/59/1.webp"
       ],
@@ -831,7 +843,7 @@
       "codigo": "60",
       "nombre": "Lubricante neutro sabor Brownie",
       "precio": 25800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/60/1.webp"
       ],
@@ -843,7 +855,7 @@
       "codigo": "61",
       "nombre": "Lubricante neutro sabor granadina",
       "precio": 18400,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/61/1.webp"
       ],
@@ -855,7 +867,7 @@
       "codigo": "62",
       "nombre": "Lubricante neutro sabor sandía",
       "precio": 18400,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/62/1.webp"
       ],
@@ -867,7 +879,7 @@
       "codigo": "63",
       "nombre": "Lubricante neutro",
       "precio": 20800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/63/1.webp"
       ],
@@ -879,7 +891,7 @@
       "codigo": "64",
       "nombre": "Lubricante neutro sabor Bombombun",
       "precio": 20800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/64/1.webp"
       ],
@@ -891,7 +903,7 @@
       "codigo": "65",
       "nombre": "lubricante neutro intimate",
       "precio": 19800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/65/1.webp"
       ],
@@ -903,7 +915,7 @@
       "codigo": "66",
       "nombre": "Lubricante neutro H2o 300ML",
       "precio": 45000,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/66/1.webp"
       ],
@@ -915,7 +927,7 @@
       "codigo": "67",
       "nombre": "Lubricante neutro 500ML",
       "precio": 67800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/67/1.webp"
       ],
@@ -941,7 +953,7 @@
       "codigo": "68",
       "nombre": "Lubricante neutro 250ML",
       "precio": 45800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/68/1.webp"
       ],
@@ -953,7 +965,7 @@
       "codigo": "69",
       "nombre": "Lubricante tipo Cum 500ML",
       "precio": 71800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/69/1.webp"
       ],
@@ -965,7 +977,7 @@
       "codigo": "70",
       "nombre": "Lubricante tipo Cum 250ML",
       "precio": 47800,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/70/1.webp"
       ],
@@ -977,7 +989,7 @@
       "codigo": "71",
       "nombre": "Lubricante neutro sen intimo 30ML",
       "precio": 31200,
-      "categoria": "frio-caliente",
+      "categoria": "neutros-saborizados",
       "imagenes": [
         "public/img/71/1.webp"
       ],
@@ -1155,7 +1167,7 @@
     },
     {
       "codigo": "84",
-      "nombre": "Lubricante multiorgasmo $",
+      "nombre": "Lubricante multiorgasmo",
       "precio": 0,
       "categoria": "multiorgasmo",
       "imagenes": [
@@ -1193,7 +1205,7 @@
       "codigo": "86",
       "nombre": "Lubricante anal en gel nutidé",
       "precio": 25600,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/86/1.webp"
       ],
@@ -1205,7 +1217,7 @@
       "codigo": "87",
       "nombre": "Sachet lubricante anal en gel intensify",
       "precio": 5600,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/87/1.webp"
       ],
@@ -1217,7 +1229,7 @@
       "codigo": "88",
       "nombre": "Lubricante mini anal crema",
       "precio": 12200,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/88/1.webp"
       ],
@@ -1245,7 +1257,7 @@
       "codigo": "89",
       "nombre": "Sachet easy anal en crema",
       "precio": 5000,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/89/1.webp"
       ],
@@ -1257,7 +1269,7 @@
       "codigo": "90",
       "nombre": "Lubricante anal en gel",
       "precio": 24800,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/90/1.webp"
       ],
@@ -1269,7 +1281,7 @@
       "codigo": "91",
       "nombre": "Lubricante anal en silicona",
       "precio": 30800,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/91/1.webp"
       ],
@@ -1281,7 +1293,7 @@
       "codigo": "92",
       "nombre": "lubricante anal electrizante",
       "precio": 50600,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/92/1.webp"
       ],
@@ -1293,7 +1305,7 @@
       "codigo": "93",
       "nombre": "Lubricante anal desensibilizante",
       "precio": 49600,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/93/1.webp"
       ],
@@ -1305,7 +1317,7 @@
       "codigo": "94",
       "nombre": "Lubricante anal en gel",
       "precio": 30000,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/94/1.webp"
       ],
@@ -1317,7 +1329,7 @@
       "codigo": "95",
       "nombre": "Lubricante anal en silicona max",
       "precio": 33000,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/95/1.webp"
       ],
@@ -1329,7 +1341,7 @@
       "codigo": "96",
       "nombre": "Lubricante anal en silicona lube",
       "precio": 33000,
-      "categoria": "anales-retardantes",
+      "categoria": "anales",
       "imagenes": [
         "public/img/96/1.webp"
       ],
@@ -1341,7 +1353,7 @@
       "codigo": "97",
       "nombre": "Retardante en spray",
       "precio": 22000,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/97/1.webp"
       ],
@@ -1353,7 +1365,7 @@
       "codigo": "98",
       "nombre": "Retardante en gel delay",
       "precio": 30000,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/98/1.webp"
       ],
@@ -1365,7 +1377,7 @@
       "codigo": "99",
       "nombre": "Retardante en crema caliente 3GR",
       "precio": 15800,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/99/1.webp"
       ],
@@ -1377,7 +1389,7 @@
       "codigo": "100",
       "nombre": "Sachet retardante en gel delay",
       "precio": 5600,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/100/1.webp"
       ],
@@ -1389,7 +1401,7 @@
       "codigo": "101",
       "nombre": "Retardante thunder en gel",
       "precio": 24800,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/101/1.webp"
       ],
@@ -1401,7 +1413,7 @@
       "codigo": "102",
       "nombre": "Retardante mini thunder en crema",
       "precio": 12200,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/102/1.webp"
       ],
@@ -1413,7 +1425,7 @@
       "codigo": "103",
       "nombre": "Sachet thunder en crema",
       "precio": 5000,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/103/1.webp"
       ],
@@ -1425,7 +1437,7 @@
       "codigo": "104",
       "nombre": "Retardante en crema frio 3GR",
       "precio": 15800,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/104/1.webp"
       ],
@@ -1437,7 +1449,7 @@
       "codigo": "105",
       "nombre": "Retardante en spray",
       "precio": 25000,
-      "categoria": "anales-retardantes",
+      "categoria": "retardantes",
       "imagenes": [
         "public/img/105/1.webp"
       ],
@@ -1931,7 +1943,7 @@
     },
     {
       "codigo": "139",
-      "nombre": "Splash con feromonas",
+      "nombre": "Splash con feromonas Sexy",
       "precio": 41800,
       "categoria": "feromonas",
       "imagenes": [
@@ -1943,7 +1955,7 @@
     },
     {
       "codigo": "140",
-      "nombre": "Splah con feromonas",
+      "nombre": "Splash con feromonas Radiant",
       "precio": 41800,
       "categoria": "feromonas",
       "imagenes": [
@@ -1955,7 +1967,7 @@
     },
     {
       "codigo": "141",
-      "nombre": "Splah con feromonas",
+      "nombre": "Splash con feromonas Seduction",
       "precio": 41800,
       "categoria": "feromonas",
       "imagenes": [
@@ -3084,7 +3096,7 @@
     {
       "codigo": "235",
       "nombre": "Esposas",
-      "precio": 5800,
+      "precio": 9800,
       "categoria": "arnes-sado",
       "imagenes": [
         "public/img/235/1.webp"
@@ -3974,7 +3986,9 @@
       "nombre": "Plug anal zorro talla M",
       "precio": 32000,
       "categoria": "plug-anal",
-      "imagenes": [],
+      "imagenes": [
+        "public/img/309/1.webp"
+      ],
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false
@@ -4501,7 +4515,7 @@
       "codigo": "348",
       "nombre": "Rosa vibradora con lengua",
       "precio": 236000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/348/1.webp"
       ],
@@ -4513,7 +4527,7 @@
       "codigo": "349",
       "nombre": "Vibrador con estimulación de clitoris",
       "precio": 170000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/349/1.webp"
       ],
@@ -4525,7 +4539,7 @@
       "codigo": "350",
       "nombre": "Vibrador con estimulación de clitoris",
       "precio": 118000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/350/1.webp"
       ],
@@ -4537,7 +4551,7 @@
       "codigo": "351",
       "nombre": "Vibrador doble estimulacion con rotación",
       "precio": 198000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/351/1.webp"
       ],
@@ -4549,7 +4563,7 @@
       "codigo": "352",
       "nombre": "Rosa estimuladora",
       "precio": 196000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/352/1.webp"
       ],
@@ -4561,7 +4575,7 @@
       "codigo": "353",
       "nombre": "Vibrador doble estimulación",
       "precio": 164000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/353/1.webp"
       ],
@@ -4573,7 +4587,7 @@
       "codigo": "354",
       "nombre": "Rosa vibradora sube y baja",
       "precio": 180000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/354/1.webp"
       ],
@@ -4585,7 +4599,7 @@
       "codigo": "355",
       "nombre": "Rosa vibradora",
       "precio": 140000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/355/1.webp"
       ],
@@ -4595,9 +4609,9 @@
     },
     {
       "codigo": "356",
-      "nombre": "Rosa ocn lengua estimuladora Vibradores con estimulacion de clitoris",
+      "nombre": "Rosa con lengua estimuladora",
       "precio": 90000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/356/1.webp"
       ],
@@ -4609,7 +4623,7 @@
       "codigo": "357",
       "nombre": "Vibrador con estimulador de clitoris",
       "precio": 130000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/357/1.webp"
       ],
@@ -4621,7 +4635,7 @@
       "codigo": "358",
       "nombre": "Vibrador con estimulador de clitoris",
       "precio": 130000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/358/1.webp"
       ],
@@ -4633,7 +4647,7 @@
       "codigo": "359",
       "nombre": "Rosa doble estimulación",
       "precio": 240000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/359/1.webp"
       ],
@@ -4645,7 +4659,7 @@
       "codigo": "360",
       "nombre": "Vibrador con estimulación de clitoris",
       "precio": 170000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/360/1.webp"
       ],
@@ -4657,7 +4671,7 @@
       "codigo": "361",
       "nombre": "Vibrador triple estimulación",
       "precio": 210000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/361/1.webp"
       ],
@@ -4669,7 +4683,7 @@
       "codigo": "362",
       "nombre": "Vibrador con estimulacón de clitoris",
       "precio": 102000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/362/1.webp"
       ],
@@ -4681,7 +4695,7 @@
       "codigo": "363",
       "nombre": "Vibrador con estimulacion de clitoris",
       "precio": 180000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/363/1.webp"
       ],
@@ -4693,7 +4707,7 @@
       "codigo": "364",
       "nombre": "Vibrador con estimulación de clitoris- control",
       "precio": 130000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/364/1.webp"
       ],
@@ -4705,7 +4719,7 @@
       "codigo": "365",
       "nombre": "Vibrador con estimulacion de clitoris- control",
       "precio": 180000,
-      "categoria": "vibradores-con-pila",
+      "categoria": "vibradores-clitoris",
       "imagenes": [
         "public/img/365/1.webp"
       ],
@@ -4717,7 +4731,7 @@
       "codigo": "366",
       "nombre": "Vibrador recargable",
       "precio": 110000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/366/1.webp"
       ],
@@ -4729,7 +4743,7 @@
       "codigo": "367",
       "nombre": "Vibrador recargable",
       "precio": 80000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/367/1.webp"
       ],
@@ -4741,7 +4755,7 @@
       "codigo": "368",
       "nombre": "Panty vib",
       "precio": 90000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/368/1.webp"
       ],
@@ -4753,7 +4767,7 @@
       "codigo": "369",
       "nombre": "Vibrador",
       "precio": 110000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/369/1.webp"
       ],
@@ -4765,7 +4779,7 @@
       "codigo": "370",
       "nombre": "Brocha",
       "precio": 90000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/370/1.webp"
       ],
@@ -4777,7 +4791,7 @@
       "codigo": "371",
       "nombre": "Brocha vibradora",
       "precio": 136000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/371/1.webp"
       ],
@@ -4789,7 +4803,7 @@
       "codigo": "372",
       "nombre": "Vibrador doble",
       "precio": 220000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/372/1.webp"
       ],
@@ -4801,7 +4815,7 @@
       "codigo": "373",
       "nombre": "Vibrador Varita",
       "precio": 80000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/373/1.webp"
       ],
@@ -4813,7 +4827,7 @@
       "codigo": "374",
       "nombre": "Vibrador doble estimulación",
       "precio": 100000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/374/1.webp"
       ],
@@ -4825,7 +4839,7 @@
       "codigo": "375",
       "nombre": "Vibrador doble estimulacion tipo C",
       "precio": 180000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/375/1.webp"
       ],
@@ -4837,7 +4851,7 @@
       "codigo": "376",
       "nombre": "Vibrador ardilla",
       "precio": 140000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/376/1.webp"
       ],
@@ -4849,7 +4863,7 @@
       "codigo": "377",
       "nombre": "Vibrador con estimulador- control",
       "precio": 160000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/377/1.webp"
       ],
@@ -4861,7 +4875,7 @@
       "codigo": "378",
       "nombre": "Vibrador ocn subsión",
       "precio": 120000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/378/1.webp"
       ],
@@ -4885,7 +4899,7 @@
       "codigo": "379",
       "nombre": "Vibrador doble estimulación",
       "precio": 240000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/379/1.webp"
       ],
@@ -4909,7 +4923,7 @@
       "codigo": "380",
       "nombre": "Bate vibrador con lengua",
       "precio": 240000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/380/1.webp"
       ],
@@ -4919,9 +4933,9 @@
     },
     {
       "codigo": "381",
-      "nombre": "Vibrador tipo pantie doble estimulación $",
+      "nombre": "Vibrador tipo pantie doble estimulación",
       "precio": 0,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/381/1.webp"
       ],
@@ -4933,7 +4947,7 @@
       "codigo": "382",
       "nombre": "Vibrador tipo mariposa con APP",
       "precio": 130000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/382/1.webp"
       ],
@@ -4945,7 +4959,7 @@
       "codigo": "383",
       "nombre": "Rosa vibradora",
       "precio": 330000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/383/1.webp"
       ],
@@ -4957,7 +4971,7 @@
       "codigo": "384",
       "nombre": "Kit estimulador 4 piezas",
       "precio": 240000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/384/1.webp"
       ],
@@ -4969,7 +4983,7 @@
       "codigo": "385",
       "nombre": "Vibrador con doble estimulación",
       "precio": 250000,
-      "categoria": "vibradores-clitoris",
+      "categoria": "vibradores",
       "imagenes": [
         "public/img/385/1.webp"
       ],
