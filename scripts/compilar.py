@@ -86,6 +86,8 @@ def main():
     with open(OUT, "w", encoding="utf-8") as f:
         json.dump({"categorias": cats, "productos": prods}, f, ensure_ascii=False, indent=2)
     print(f"Compilados {len(prods)} productos en {len(cats)} categorías -> public/products.json")
+    import paginas_seo                       # páginas por categoría + sitemap (scripts/paginas_seo.py)
+    paginas_seo.generar(PROJ, prods, cats)
 
 if __name__ == "__main__":
     main()

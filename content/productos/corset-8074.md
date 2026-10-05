@@ -9,4 +9,5 @@ imagenes:
 descripcion: "Tallas: 32-34-36"
 activo: true
 bajo_pedido: true
+destacado: true
 ---

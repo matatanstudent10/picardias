@@ -234,7 +234,7 @@
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false,
-      "destacado": true
+      "destacado": false
     },
     {
       "codigo": "11",
@@ -1807,7 +1807,7 @@
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false,
-      "destacado": true
+      "destacado": false
     },
     {
       "codigo": "132",
@@ -4615,7 +4615,7 @@
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false,
-      "destacado": true
+      "destacado": false
     },
     {
       "codigo": "349",
@@ -4758,7 +4758,7 @@
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false,
-      "destacado": true
+      "destacado": false
     },
     {
       "codigo": "360",
@@ -5109,7 +5109,7 @@
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false,
-      "destacado": true
+      "destacado": false
     },
     {
       "codigo": "387",
@@ -5304,7 +5304,7 @@
       "descripcion": "",
       "activo": true,
       "bajo_pedido": false,
-      "destacado": true
+      "destacado": false
     },
     {
       "codigo": "402",
@@ -5395,7 +5395,7 @@
       "descripcion": "Tallas: 32-34-36-38",
       "activo": true,
       "bajo_pedido": true,
-      "destacado": false
+      "destacado": true
     },
     {
       "codigo": "babydoll-2087",
@@ -6305,7 +6305,7 @@
       "descripcion": "Tallas: 32-34-36-38",
       "activo": true,
       "bajo_pedido": true,
-      "destacado": false
+      "destacado": true
     },
     {
       "codigo": "conjunto-copa-80544",
@@ -6415,7 +6415,7 @@
       "descripcion": "Tallas: 32-34-36-38",
       "activo": true,
       "bajo_pedido": true,
-      "destacado": false
+      "destacado": true
     },
     {
       "codigo": "corset-2048",
@@ -6445,7 +6445,7 @@
       "descripcion": "Tallas: 32-34-36",
       "activo": true,
       "bajo_pedido": true,
-      "destacado": false
+      "destacado": true
     },
     {
       "codigo": "corset-814",
@@ -7578,7 +7578,7 @@
       "descripcion": "Tallas: 32-34-36",
       "activo": true,
       "bajo_pedido": true,
-      "destacado": false
+      "destacado": true
     },
     {
       "codigo": "set-150427",
@@ -7849,7 +7849,7 @@
       "descripcion": "Tallas: 32-34-36",
       "activo": true,
       "bajo_pedido": true,
-      "destacado": false
+      "destacado": true
     },
     {
       "codigo": "tanga-71156",

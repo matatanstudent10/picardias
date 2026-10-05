@@ -7,6 +7,7 @@ on:
     paths:
       - "content/productos/**"
       - "scripts/compilar.py"
+      - "scripts/paginas_seo.py"
   workflow_dispatch:
 
 permissions:
@@ -26,9 +27,9 @@ jobs:
         run: |
           git config user.name "picardias-bot"
           git config user.email "bot@users.noreply.github.com"
-          if ! git diff --quiet -- public/products.json; then
-            git add public/products.json
-            git commit -m "chore: recompilar products.json"
+          git add -A public/products.json c sitemap.xml index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: recompilar catálogo y páginas SEO"
             git push
           else
             echo "Sin cambios en products.json"

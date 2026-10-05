@@ -25,6 +25,8 @@
   const fmt = (n) => MONEDA + (n || 0).toLocaleString("es-CO") + " COP";
   const waUrl = (txt) => `https://wa.me/${WHATSAPP}?text=${encodeURIComponent(txt)}`;
   const ic = (name) => `<svg class="i" aria-hidden="true"><use href="#i-${name}"/></svg>`;
+  // rutas absolutas: la misma app sirve en "/" y en las páginas de categoría "/c/<slug>/"
+  const R = (p) => (/^(https?:)?\//.test(p) ? p : "/" + p);
   const norm = (s) => (s || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
   let PRODUCTOS = [], CATS = [], CAT_NOMBRE = {}, GRUPO_DE = {};
@@ -47,7 +49,7 @@
   // ---------- Carga de datos ----------
   async function cargar() {
     try {
-      const r = await fetch("public/products.json", { cache: "no-store" });
+      const r = await fetch("/public/products.json", { cache: "no-store" });
       const d = await r.json();
       PRODUCTOS = (d.productos || []).filter(p => p.activo !== false);
       CATS = d.categorias || [];
@@ -59,6 +61,9 @@
     const ultimo = GRUPOS[GRUPOS.length - 1];
     GRUPOS.forEach(g => g.cats.forEach(s => { GRUPO_DE[s] = g.id; }));
     CATS.forEach(c => { if (!GRUPO_DE[c.slug]) { GRUPO_DE[c.slug] = ultimo.id; ultimo.cats.push(c.slug); } });
+    // página de categoría (/c/<slug>/): abre ya filtrada
+    const pre = document.body.dataset.cat;
+    if (pre && GRUPO_DE[pre]) { grupo = GRUPO_DE[pre]; cat = pre; }
     PRODUCTOS.forEach(p => { p._q = norm(`${p.nombre} ${p.codigo} ${CAT_NOMBRE[p.categoria] || ""}`); });
     // el carrito guardado puede traer productos que ya no existen o se ocultaron
     Object.keys(cart).forEach(c => { if (!porCodigo(c)) delete cart[c]; });
@@ -118,7 +123,7 @@
   }
   function tarjeta(p) {
     const img = p.imagenes && p.imagenes[0]
-      ? `<img loading="lazy" src="${esc(p.imagenes[0])}" alt="${esc(p.nombre)}" onerror="this.onerror=null;this.src='assets/brand/logo.png'" />`
+      ? `<img loading="lazy" src="${esc(R(p.imagenes[0]))}" alt="${esc(p.nombre)}" onerror="this.onerror=null;this.src='/assets/brand/logo.png'" />`
       : `<div class="card-noimg">${ic("package")}</div>`;
     const bp = p.bajo_pedido ? `<span class="badge-bp">${ic("clock")}Bajo pedido</span>` : "";
     const precio = p.precio ? `<span class="price">${fmt(p.precio)}</span>` : `<span class="price consult">Consultar precio</span>`;
@@ -162,9 +167,10 @@
     modalCode = code; modalQty = 1; lastFocus = document.activeElement;
     gal = (p.imagenes || []).filter(Boolean);
     if (!gal.length) gal = ["assets/brand/logo.png"];
+    gal = gal.map(R);
     $("#mImg").alt = p.nombre;
     $("#mThumbs").innerHTML = gal.length > 1
-      ? gal.map((src, i) => `<button class="thumb" data-i="${i}" aria-label="Foto ${i + 1}"><img src="${esc(src)}" alt="" loading="lazy" onerror="this.onerror=null;this.src='assets/brand/logo.png'" /></button>`).join("") : "";
+      ? gal.map((src, i) => `<button class="thumb" data-i="${i}" aria-label="Foto ${i + 1}"><img src="${esc(src)}" alt="" loading="lazy" onerror="this.onerror=null;this.src='/assets/brand/logo.png'" /></button>`).join("") : "";
     $("#mThumbs").hidden = gal.length < 2;
     $("#mPrev").hidden = $("#mNext").hidden = gal.length < 2;
     verFoto(0);
@@ -225,7 +231,7 @@
     } else {
       box.innerHTML = codes.map(c => {
         const p = porCodigo(c);
-        const img = p.imagenes && p.imagenes[0] ? `<img src="${esc(p.imagenes[0])}" alt="" onerror="this.onerror=null;this.src='assets/brand/logo.png'">` : `<span class="ci-noimg">${ic("package")}</span>`;
+        const img = p.imagenes && p.imagenes[0] ? `<img src="${esc(R(p.imagenes[0]))}" alt="" onerror="this.onerror=null;this.src='/assets/brand/logo.png'">` : `<span class="ci-noimg">${ic("package")}</span>`;
         return `<div class="ci" data-code="${esc(c)}">${img}
           <div class="ci-info"><span class="ci-name">${esc(p.nombre)}</span>
             <div class="ci-qty"><button class="cm" aria-label="Menos">${ic("minus")}</button><span>${cart[c]}</span><button class="cp" aria-label="Más">${ic("plus")}</button>
