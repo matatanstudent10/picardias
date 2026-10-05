@@ -14,7 +14,8 @@
     { id: "juguetes", nombre: "Juguetes", icon: "heart",
       cats: ["vibradores", "vibradores-clitoris", "vibradores-con-pila", "vibradores-con-app", "succionadores",
              "balas-huevos", "masajeadores", "masturbadores", "plug-anal", "anillos-fundas"] },
-    { id: "lenceria", nombre: "Lencería", icon: "gem", cats: ["lenceria", "arnes-sado"] },
+    { id: "lenceria", nombre: "Lencería", icon: "gem", cats: ["lenceria"] },
+    { id: "sado", nombre: "Arnés y sado", icon: "link", cats: ["arnes-sado"] },
     { id: "juegos", nombre: "Juegos y más", icon: "dices", cats: ["juegos", "kits", "otros"] },
   ];
   // =============================
